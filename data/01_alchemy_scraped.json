@@ -1,0 +1,5503 @@
+{
+    "Abecean Longfin": {
+        "effects": {
+            "negative": [
+                "Weakness to Frost",
+                "Weakness to Poison"
+            ],
+            "positive": [
+                "Fortify Sneak",
+                "Fortify Restoration"
+            ]
+        },
+        "description": "Abecean Longfins are fish that live in bodies of water all over Skyrim."
+    },
+    "Adamantium Ore": {
+        "effects": {
+            "negative": [
+                "Burden",
+                "Poison"
+            ],
+            "positive": [
+                "Restore Magicka",
+                "Reflect"
+            ]
+        },
+        "description": "Adamantium (also called Adamantine) is a rare and ageless metal used for making valuable armor and weapons. It is typically seen in a lustrous silvery color dubbed \"Adamantine Silver\", though adamantium equipment can also have a stone blue hue or a dark grey coloration. The ore is very heavy and can be used in alchemy. Adamantium armor can appear as either a high-quality heavy weight armor or medium weight armor. It is above the quality of Mithril or Orichalcum, but is inferior to Stalhrim and Ebony. The armor has a high potential for enchantment. Adamantium weapons can harm magical creatures that resist normal weapons."
+    },
+    "Ahm Galath": {
+        "effects": {
+            "positive": [
+                "Increase Lethal Strike"
+            ]
+        }
+    },
+    "Alit Hide": {
+        "effects": {
+            "negative": [
+                "Drain Intelligence"
+            ],
+            "positive": [
+                "Resist Poison",
+                "Telekinesis",
+                "Detect Animal"
+            ]
+        }
+    },
+    "Alkanet Flower": {
+        "effects": {
+            "positive": [
+                "Restore Intelligence",
+                "Resist Poison",
+                "Light"
+            ],
+            "negative": [
+                "Damage Fatigue"
+            ]
+        },
+        "description": "Alkanet Flower is a fairly common flower in the West Weald region of Cyrodiil. The flowers are usually found in groups of two to five and normally grow near rocks."
+    },
+    "Alocasia Fruit": {
+        "effects": {
+            "positive": [
+                "Restore Fatigue",
+                "Light",
+                "Restore Health",
+                "Regenerate Stamina",
+                "Regenerate Health"
+            ],
+            "negative": [
+                "Damage Magicka",
+                "Ravage Magicka"
+            ]
+        }
+    },
+    "Aloe Vera Leaves": {
+        "effects": {
+            "positive": [
+                "Heal Health",
+                "Restore Health",
+                "Restore Fatigue",
+                "Invisibility",
+                "Restore Stamina"
+            ],
+            "negative": [
+                "Damage Magicka"
+            ]
+        },
+        "description": "Aloe Vera Leaves come from the Aloe Vera plant and are well-known for their healing properties. Aloe can prevent bleeding as well as lessen the effects of pox."
+    },
+    "Amber": {
+        "effects": {
+            "positive": [
+                "Resist Fire"
+            ]
+        },
+        "description": "Amber is a colorful resin formed from hardened sap. It is especially common in the Shivering Isles, and blacksmiths there often craft amber weapons and armor."
+    },
+    "Ambrosia": {
+        "effects": {
+            "positive": [
+                "Restore Health",
+                "Regenerate Health",
+                "Fortify Health",
+                "Cure Poison"
+            ]
+        },
+        "description": "The ingredient Ambrosia is one of two ingredients that comes from the plant Mana Bloom. Mana Blooms grow almost exclusively on the plane Gaiar Alata and therefore Ambrosia is quite a rare ingredient."
+    },
+    "Ampoule Pod": {
+        "effects": {
+            "positive": [
+                "Water Walking",
+                "Detect Animal"
+            ],
+            "negative": [
+                "Paralyze",
+                "Drain Willpower"
+            ]
+        },
+        "description": "Ampoule Pods are harvested from draggle-tail plants, commonly found in the Bitter Coast region of Vvardenfell."
+    },
+    "Ancestor Moth Wing": {
+        "effects": {
+            "negative": [
+                "Damage Stamina",
+                "Damage Magicka Regen"
+            ],
+            "positive": [
+                "Fortify Conjuration",
+                "Fortify Enchanting"
+            ]
+        }
+    },
+    "Angelfish": {
+        "effects": {
+            "positive": [
+                "Regenerate Health",
+                "Resist Fire",
+                "Fortify Marksman",
+                "Waterbreathing"
+            ]
+        }
+    },
+    "Angler Larva": {
+        "effects": {
+            "negative": [
+                "Lingering Damage Health"
+            ],
+            "positive": [
+                "Regenerate Stamina",
+                "Waterbreathing",
+                "Fortify Two-handed"
+            ]
+        }
+    },
+    "Antlers": {
+        "effects": {
+            "positive": [
+                "Restore Stamina",
+                "Fortify Stamina",
+                "Fortify Restoration"
+            ],
+            "negative": [
+                "Slow",
+                "Damage Stamina Regen",
+                "Weakness to Poison",
+                "Lingering Damage Stamina",
+                "Damage Health"
+            ]
+        },
+        "description": "The antlers of deer and elk can be used in alchemy, though the effects differ depending on size."
+    },
+    "Apple": {
+        "effects": {
+            "positive": [
+                "Restore Fatigue",
+                "Fortify Willpower",
+                "Restore Health"
+            ],
+            "negative": [
+                "Damage Luck",
+                "Damage Health"
+            ]
+        },
+        "description": "Apples are a common fruit encountered throughout Tamriel."
+    },
+    "Arrowroot": {
+        "effects": {
+            "positive": [
+                "Restore Agility",
+                "Fortify Strength"
+            ],
+            "negative": [
+                "Damage Luck",
+                "Burden"
+            ]
+        },
+        "description": "The ingredient Arrowroot comes from the plant Arrowroot Plant, which grows in the Gold Coast and Nibenay Valley regions of Cyrodiil."
+    },
+    "Ash Creep Cluster": {
+        "effects": {
+            "negative": [
+                "Damage Stamina"
+            ],
+            "positive": [
+                "Invisibility",
+                "Resist Fire",
+                "Fortify Destruction"
+            ]
+        }
+    },
+    "Ash Hopper Jelly": {
+        "effects": {
+            "positive": [
+                "Restore Health",
+                "Fortify Light Armor",
+                "Resist Shock"
+            ],
+            "negative": [
+                "Weakness to Frost"
+            ]
+        }
+    },
+    "Ash Salt": {
+        "effects": {
+            "negative": [
+                "Drain Agility"
+            ],
+            "positive": [
+                "Resist Magicka",
+                "Cure Blight Disease"
+            ]
+        },
+        "description": "Ash Salt is a highly magical substance made up of hard grey crystals formed from the ash deposited by ash storms. Ash Salt is often collected from the remains of creatures like the ash slave, the ash ghoul, and ash zombie."
+    },
+    "Ash Yam": {
+        "effects": {
+            "positive": [
+                "Fortify Intelligence",
+                "Fortify Strength",
+                "Resist Common Disease",
+                "Detect Key",
+                "Restore Health"
+            ]
+        }
+    },
+    "Ashen Grass Pod": {
+        "effects": {
+            "positive": [
+                "Resist Fire",
+                "Fortify Lockpicking",
+                "Fortify Sneak"
+            ],
+            "negative": [
+                "Weakness to Shock"
+            ]
+        },
+        "description": "Ashen Grass Pods is an ingredient harvested from Spiky Grass plants unique to Solstheim. The plant looks similar to the grass pod found in mainland Skyrim, only this type is grey in color and has different alchemical properties."
+    },
+    "Ashen Remains": {
+        "effects": {
+            "positive": [
+                "Fortify Fatigue"
+            ],
+            "negative": [
+                "Damage Luck",
+                "Silence",
+                "Weakness to Fire"
+            ]
+        },
+        "description": "Ashen Remains are the remnants of bones burned using the Crematorium in Ebrocca, in the Shivering Isles."
+    },
+    "Aster Bloom Core": {
+        "effects": {
+            "positive": [
+                "Restore Agility",
+                "Dispel",
+                "Shield",
+                "Resist Magic",
+                "Fortify Light Armor",
+                "Fortify Block"
+            ],
+            "negative": [
+                "Burden",
+                "Paralysis"
+            ]
+        },
+        "description": "Aster Bloom Cores can be harvested from Aster Bloom plants, which are only found in the Mania region of the Shivering Isles."
+    },
+    "Azra Root": {
+        "effects": {
+            "positive": [
+                "Damage Strength",
+                "Add Intelligence"
+            ],
+            "negative": [
+                "Damage Endurance",
+                "Damage Strength"
+            ]
+        }
+    },
+    "Bamboo": {
+        "effects": {
+            "positive": [
+                "Heal Stamina"
+            ]
+        }
+    },
+    "Basilisk's eye": {
+        "effects": {
+            "positive": [
+                "Cure Paralysis"
+            ]
+        }
+    },
+    "Bear Claws": {
+        "effects": {
+            "positive": [
+                "Restore Stamina",
+                "Fortify Health",
+                "Fortify One-handed"
+            ],
+            "negative": [
+                "Damage Magicka Regen"
+            ]
+        }
+    },
+    "Bear Pelt": {
+        "effects": {
+            "negative": [
+                "Drain Fatigue"
+            ],
+            "positive": [
+                "Fortify Strength",
+                "Resist Common Disease",
+                "Night Eye"
+            ]
+        }
+    },
+    "Beating Heart": {
+        "effects": {
+            "other": [
+                "Cannibal Consumption"
+            ]
+        }
+    },
+    "Bee": {
+        "effects": {
+            "positive": [
+                "Restore Stamina",
+                "Regenerate Stamina"
+            ],
+            "negative": [
+                "Ravage Stamina",
+                "Weakness to Shock"
+            ]
+        }
+    },
+    "Beef": {
+        "effects": {
+            "positive": [
+                "Restore Fatigue",
+                "Shield",
+                "Fortify Agility",
+                "Dispel",
+                "Restore Health"
+            ]
+        }
+    },
+    "Beehive Husk": {
+        "effects": {
+            "positive": [
+                "Resist Poison",
+                "Fortify Light Armor",
+                "Fortify Sneak",
+                "Fortify Destruction"
+            ]
+        }
+    },
+    "Beetle Scuttle": {
+        "effects": {
+            "positive": [
+                "Restore Fatigue",
+                "Fortify Fatigue",
+                "Feather",
+                "Telekinesis",
+                "Increase Armor",
+                "Protection",
+                "Vitality"
+            ],
+            "negative": [
+                "Breach"
+            ]
+        },
+        "description": "Beetle Scuttle is a cheese-like, greasy substance made from the flesh of beetle-like creatures, including Assassin Beetles, Thunderbugs, and Shalks."
+    },
+    "Belladonna Berries": {
+        "effects": {
+            "positive": [
+                "Resist Magicka",
+                "Restore Magicka",
+                "Fortify Magicka"
+            ],
+            "negative": [
+                "Drain Magicka"
+            ]
+        }
+    },
+    "Bergamot Seeds": {
+        "effects": {
+            "positive": [
+                "Resist Disease",
+                "Dispel"
+            ],
+            "negative": [
+                "Damage Magicka",
+                "Silence"
+            ]
+        },
+        "description": "Bergamot Seeds comes from the plant Bergamot, most commonly found in the Great Forest region of Cyrodiil."
+    },
+    "Berit's Ashes": {},
+    "Bervez Juice": {
+        "effects": {
+            "positive": [
+                "Restore Fatigue",
+                "Restore Health"
+            ]
+        }
+    },
+    "Big tooth": {},
+    "Bitter Tea": {
+        "effects": {
+            "positive": [
+                "Damage Intelligence",
+                "Increase Endurance",
+                "Magicka Recovery"
+            ],
+            "negative": [
+                "Damage Agility",
+                "Damage Intelligence"
+            ]
+        }
+    },
+    "Bittergreen Petals": {
+        "effects": {
+            "positive": [
+                "Restore Intelligence",
+                "Invisibility",
+                "Cure Poison"
+            ],
+            "negative": [
+                "Drain Endurance",
+                "Drain Magicka",
+                "Lingering Damage Stamina",
+                "Damage Magicka"
+            ]
+        },
+        "description": "Bittergreen is a red flowering plant with modest magical properties which grow abundantly in the West Gash region, and in lesser quantities in the Ashlands and Red Mountain regions of Vvardenfell."
+    },
+    "Black Anther": {
+        "effects": {
+            "negative": [
+                "Drain Agility",
+                "Drain Endurance"
+            ],
+            "positive": [
+                "Resist Fire",
+                "Light"
+            ]
+        }
+    },
+    "Black Lichen": {
+        "effects": {
+            "negative": [
+                "Drain Strength",
+                "Drain Speed"
+            ],
+            "positive": [
+                "Resist Frost",
+                "Cure Poison"
+            ]
+        }
+    },
+    "Black Mushroom": {
+        "effects": {
+            "positive": [
+                "Increase Armor Value"
+            ]
+        }
+    },
+    "Black poppy": {
+        "effects": {
+            "negative": [
+                "Damage Spell Points"
+            ]
+        }
+    },
+    "Black rose": {
+        "effects": {
+            "negative": [
+                "Silence"
+            ]
+        }
+    },
+    "Black Tar": {
+        "effects": {
+            "negative": [
+                "Damage Fatigue",
+                "Damage Speed",
+                "Damage Health",
+                "Shock Damage"
+            ]
+        }
+    },
+    "Blackberry": {
+        "effects": {
+            "positive": [
+                "Restore Fatigue",
+                "Resist Shock",
+                "Fortify Endurance",
+                "Restore Magicka"
+            ]
+        },
+        "description": "Blackberries come from the plant Blackberry Bush, commonly found growing in the West Weald region of Cyrodiil."
+    },
+    "Bleeding Crown": {
+        "effects": {
+            "negative": [
+                "Weakness to Fire",
+                "Weakness to Poison"
+            ],
+            "positive": [
+                "Fortify Block",
+                "Resist Magic"
+            ]
+        }
+    },
+    "Blessed Thistle": {
+        "effects": {
+            "positive": [
+                "Restore Stamina",
+                "Increase Weapon Power",
+                "Speed"
+            ],
+            "negative": [
+                "Ravage Health"
+            ]
+        },
+        "description": "Blessed Thistle is a plant with many spade-shaped green leaves growing from a central stem. The plant is found all across Tamriel."
+    },
+    "Blind Watcher's Eye": {
+        "effects": {
+            "positive": [
+                "Restore Intelligence",
+                "Fortify Magicka",
+                "Light",
+                "Reflect Spell",
+                "Fortify Alteration",
+                "Spell Absorption"
+            ]
+        }
+    },
+    "Bliss Bug Thorax": {
+        "effects": {
+            "negative": [
+                "Weakness to Fire"
+            ],
+            "positive": [
+                "Resist Fire",
+                "Fortify Heavy Armor",
+                "Fortify Illusion"
+            ]
+        }
+    },
+    "Blister Pod Cap": {
+        "effects": {
+            "positive": [
+                "Restore Magicka",
+                "Fortify Magicka",
+                "Night-Eye",
+                "Invisibility",
+                "Night Eye"
+            ]
+        },
+        "description": "Blister Pod Caps comes from the plant Blister Pod which grows exclusively in the Dementia region of the Shivering Isles."
+    },
+    "Blisterwort": {
+        "effects": {
+            "negative": [
+                "Damage Stamina",
+                "Frenzy"
+            ],
+            "positive": [
+                "Restore Health",
+                "Fortify Smithing"
+            ]
+        },
+        "description": "Blisterwort is a variety of fungus that is commonly found growing in caves."
+    },
+    "Bloat": {
+        "effects": {
+            "negative": [
+                "Drain Magicka"
+            ],
+            "positive": [
+                "Fortify Intelligence",
+                "Fortify Willpower",
+                "Detect Animal"
+            ]
+        },
+        "description": "Bloat is a thick, pulpy-white tuber of the bloatspore plant. It grows in dark, damp locations."
+    },
+    "Blood of an Innocent": {},
+    "Bloodgrass": {
+        "effects": {
+            "positive": [
+                "Chameleon",
+                "Resist Paralysis",
+                "Fortify Health",
+                "Invisibility",
+                "Resist Poison"
+            ],
+            "negative": [
+                "Burden",
+                "Slow"
+            ]
+        },
+        "description": "Bloodgrass comes from the plant Blood Grass, which is a plant native to the Daedric Plane of Mehrunes Dagon, The Deadlands. It sometimes grows near Oblivion Gates that leads to the Deadlands."
+    },
+    "Blue Butterfly Wing": {
+        "effects": {
+            "negative": [
+                "Damage Stamina",
+                "Damage Magicka Regen"
+            ],
+            "positive": [
+                "Fortify Conjuration",
+                "Fortify Enchanting"
+            ]
+        }
+    },
+    "Blue Dartwing": {
+        "effects": {
+            "positive": [
+                "Resist Shock",
+                "Fortify Pickpocket",
+                "Restore Health"
+            ],
+            "negative": [
+                "Fear"
+            ]
+        }
+    },
+    "Blue Entoloma": {
+        "effects": {
+            "negative": [
+                "Ravage Magicka",
+                "Cowardice"
+            ],
+            "positive": [
+                "Restore Health",
+                "Invisible"
+            ]
+        },
+        "description": "Blue Entoloma comes from the Entoloma mushroom, a vibrant blue fungi. It can be found growing all across Tamriel."
+    },
+    "Blue Mountain Flower": {
+        "effects": {
+            "positive": [
+                "Restore Health",
+                "Fortify Conjuration",
+                "Fortify Health"
+            ],
+            "negative": [
+                "Damage Magicka Regen"
+            ]
+        }
+    },
+    "Boar Meat": {
+        "effects": {
+            "positive": [
+                "Restore Health",
+                "Fortify Health"
+            ],
+            "negative": [
+                "Damage Speed",
+                "Burden"
+            ]
+        }
+    },
+    "Boar Tusk": {
+        "effects": {
+            "positive": [
+                "Fortify Stamina",
+                "Fortify Health",
+                "Fortify Block"
+            ],
+            "negative": [
+                "Frenzy"
+            ]
+        }
+    },
+    "Bog Beacon Asco Cap": {
+        "effects": {
+            "positive": [
+                "Restore Magicka",
+                "Shield",
+                "Fortify Heavy Armor"
+            ],
+            "negative": [
+                "Damage Personality",
+                "Damage Endurance",
+                "Fear",
+                "Damage Stamina"
+            ]
+        },
+        "description": "Bog Beacon Asco Caps comes from the plant Bog Beacon. The plant is most commonly found in the Blackwood region of Cyrodiil."
+    },
+    "Bone Marrow": {
+        "effects": {
+            "negative": [
+                "Damage Health",
+                "Frost Damage",
+                "Damage Magicka",
+                "Paralyze"
+            ]
+        },
+        "description": "Bone Marrow, sometimes called Shambles Marrow, is collected from dead Shambles."
+    },
+    "Bone Shard": {
+        "effects": {
+            "positive": [
+                "Restore Willpower",
+                "Frost Shield"
+            ],
+            "negative": [
+                "Damage Magicka",
+                "Damage Luck"
+            ]
+        }
+    },
+    "Bone Meal": {
+        "effects": {
+            "positive": [
+                "Restore Agility",
+                "Telekinesis",
+                "Resist Fire",
+                "Fortify Luck",
+                "Night-Eye",
+                "Fortify Conjuration"
+            ],
+            "negative": [
+                "Drain Fatigue",
+                "Drain Personality",
+                "Damage Fatigue",
+                "Damage Stamina",
+                "Ravage Stamina"
+            ]
+        },
+        "description": "Bonemeal is a finely ground powder made from bone. It possesses modest magical properties and can be harvested from skeletons and liches."
+    },
+    "Bounder Skin": {
+        "effects": {
+            "positive": [
+                "Increase Strength",
+                "Increase Armor",
+                "Increase Defense"
+            ]
+        }
+    },
+    "Brass": {
+        "effects": {
+            "positive": [
+                "Jumping"
+            ]
+        }
+    },
+    "Bread": {
+        "effects": {
+            "positive": [
+                "Restore Fatigue",
+                "Detect Life",
+                "Restore Health"
+            ],
+            "negative": [
+                "Damage Agility",
+                "Damage Strength"
+            ]
+        }
+    },
+    "Briar Heart": {
+        "effects": {
+            "positive": [
+                "Restore Magicka",
+                "Fortify Block",
+                "Fortify Magicka"
+            ],
+            "negative": [
+                "Paralysis"
+            ]
+        }
+    },
+    "Bristleback Leather": {
+        "effects": {
+            "negative": [
+                "Blind",
+                "Frost Damage"
+            ],
+            "positive": [
+                "Resist Frost"
+            ],
+            "other": [
+                "Recall"
+            ]
+        }
+    },
+    "Bugloss": {
+        "effects": {
+            "positive": [
+                "Increase Spell Resist",
+                "Restore Health",
+                "Restore Magicka"
+            ],
+            "negative": [
+                "Cowardice"
+            ]
+        },
+        "description": "Bugloss is a large plant with purple-blue flowers that grows all across Tamriel."
+    },
+    "Bungler's Bane": {
+        "effects": {
+            "negative": [
+                "Drain Speed",
+                "Drain Endurance",
+                "Drain Strength",
+                "Slow",
+                "Ravage Stamina",
+                "Damage Stamina Regen"
+            ],
+            "mixed": [
+                "Dispel"
+            ],
+            "positive": [
+                "Resist Magic"
+            ]
+        },
+        "description": "Bungler's Bane is a mottled brown-and-orange shelf fungus collected from the trunks of trees and occasionally on cave walls. Commonly found in the Bitter Coast region of Vvardenfell."
+    },
+    "Burnt Spriggan Wood": {
+        "effects": {
+            "negative": [
+                "Weakness to Fire",
+                "Damage Magicka Regen",
+                "Slow"
+            ],
+            "positive": [
+                "Fortify Alteration"
+            ]
+        }
+    },
+    "Butterfly Wing": {
+        "effects": {
+            "positive": [
+                "Restore Health",
+                "Fortify Barter",
+                "Lingering Health",
+                "Vitality"
+            ],
+            "negative": [
+                "Lingering Damage Stamina",
+                "Damage Magicka",
+                "Uncertainty"
+            ]
+        }
+    },
+    "Cactus": {
+        "effects": {
+            "positive": [
+                "Resist Magicka"
+            ]
+        }
+    },
+    "Cairn Bolete Cap": {
+        "effects": {
+            "positive": [
+                "Restore Health",
+                "Resist Paralysis"
+            ],
+            "negative": [
+                "Damage Intelligence",
+                "Shock Damage"
+            ]
+        },
+        "description": "Cairn Bolete Caps comes from the Cairn Bolete fungus. Cairn Bolete is most commonly found in caves but can occasionally be found in the wilderness."
+    },
+    "Canis Root": {
+        "effects": {
+            "negative": [
+                "Damage Stamina",
+                "Paralysis"
+            ],
+            "positive": [
+                "Fortify One-handed",
+                "Fortify Marksman"
+            ]
+        },
+        "description": "Canis Root is harvested from small, gnarled bushes. Most commonly found in birch woods near rock formations or at the base of cliffs."
+    },
+    "Carrot": {
+        "effects": {
+            "positive": [
+                "Restore Fatigue",
+                "Night-Eye",
+                "Fortify Intelligence",
+                "Restore Health"
+            ],
+            "negative": [
+                "Damage Endurance"
+            ]
+        }
+    },
+    "Carrot of Seeing": {},
+    "Charred Skeever Hide": {
+        "effects": {
+            "positive": [
+                "Restore Stamina",
+                "Cure Disease",
+                "Resist Poison",
+                "Restore Health"
+            ]
+        }
+    },
+    "Chaurus Eggs": {
+        "effects": {
+            "negative": [
+                "Weakness to Poison",
+                "Damage Magicka"
+            ],
+            "positive": [
+                "Fortify Stamina",
+                "Invisibility"
+            ]
+        },
+        "description": "Chaurus Eggs are harvested from Chaurus egg sacs. The eggs and sacs emit a pale blue bioluminescence."
+    },
+    "Chaurus Hunter Antennae": {
+        "effects": {
+            "negative": [
+                "Damage Stamina",
+                "Damage Magicka Regen"
+            ],
+            "positive": [
+                "Fortify Conjuration",
+                "Fortify Enchanting"
+            ]
+        }
+    },
+    "Cheese Wedge": {
+        "effects": {
+            "positive": [
+                "Restore Fatigue",
+                "Resist Fire",
+                "Fire Shield",
+                "Restore Health"
+            ],
+            "negative": [
+                "Damage Agility"
+            ]
+        }
+    },
+    "Cheese Wheel": {
+        "effects": {
+            "positive": [
+                "Restore Fatigue",
+                "Resist Paralysis",
+                "Fortify Willpower",
+                "Restore Health"
+            ],
+            "negative": [
+                "Damage Luck"
+            ]
+        }
+    },
+    "Chicken's Egg": {
+        "effects": {
+            "positive": [
+                "Resist Magic",
+                "Waterbreathing"
+            ],
+            "negative": [
+                "Damage Magicka Regen",
+                "Lingering Damage Stamina"
+            ]
+        }
+    },
+    "Chokeberry": {
+        "effects": {
+            "other": [
+                "Poison Fruit"
+            ],
+            "negative": [
+                "Damage Health",
+                "Ravage Health",
+                "Lingering Damage Health",
+                "Weakness to Poison"
+            ]
+        },
+        "description": "Chokeberries comes from the Chokeberry Vines. They are prized by assassins for being deadly poisonous if consumed."
+    },
+    "Chokeweed": {
+        "effects": {
+            "negative": [
+                "Drain Luck",
+                "Drain Willpower",
+                "Weakness to Frost",
+                "Damage Magicka"
+            ],
+            "positive": [
+                "Restore Fatigue",
+                "Cure Common Disease",
+                "Restore Stamina",
+                "Cure Disease"
+            ]
+        },
+        "description": "Chokeweed is a tough shrub growing in the rocky highlands of the West Gash region of Vvardenfell."
+    },
+    "Cinnabar Polypore Red Cap": {
+        "effects": {
+            "positive": [
+                "Restore Agility",
+                "Shield"
+            ],
+            "negative": [
+                "Damage Personality",
+                "Damage Endurance"
+            ]
+        },
+        "description": "Cinnabar Polypore Red Caps comes from the fungus Cinnabar Polypore, which is a somewhat hard-to-find mushroom that primarily grows on the sides of trees in the West Weald region of Cyrodiil."
+    },
+    "Cinnabar Polypore Yellow Cap": {
+        "effects": {
+            "positive": [
+                "Restore Endurance",
+                "Fortify Endurance",
+                "Reflect Spell"
+            ],
+            "negative": [
+                "Damage Personality"
+            ]
+        }
+    },
+    "Clam Gall": {
+        "effects": {
+            "positive": [
+                "Increase Spell Resist"
+            ],
+            "negative": [
+                "Hindrance",
+                "Vulnerability",
+                "Defile"
+            ]
+        },
+        "description": "Clam Gall is an ingredient that can be found in Giant Clams on the beaches of Summerset Isle."
+    },
+    "Clannfear Claws": {
+        "effects": {
+            "positive": [
+                "Cure Disease",
+                "Resist Disease"
+            ],
+            "negative": [
+                "Paralyze",
+                "Damage Health"
+            ]
+        },
+        "description": "Clannfear Claws is primarily collected from dead Clannfears. Claws can only be collected from fully grown Clannfears, not from Clannfear Runts."
+    },
+    "Clawrunner Skin": {
+        "effects": {
+            "positive": [
+                "Increase Strength",
+                "Increase Armor",
+                "Increase Defense"
+            ]
+        }
+    },
+    "Clouded Funnel Cap": {
+        "effects": {
+            "positive": [
+                "Restore Intelligence",
+                "Fortify Intelligence"
+            ],
+            "negative": [
+                "Damage Endurance",
+                "Damage Magicka"
+            ]
+        },
+        "description": "Clouded Funnel Caps comes from the fungus Clouded Funnel Cap, which is a mushroom commonly found in high altitude regions and in the Blackwood region of Cyrodiil."
+    },
+    "Clover": {
+        "effects": {
+            "positive": [
+                "Increase Luck"
+            ]
+        }
+    },
+    "Coda Flower": {
+        "effects": {
+            "negative": [
+                "Drain Personality",
+                "Drain Intelligence",
+                "Drain Health",
+                "Damage Health",
+                "Lingering Damage Stamina",
+                "Ravage Magicka"
+            ],
+            "positive": [
+                "Levitate",
+                "Fortify Carry Weight"
+            ]
+        },
+        "description": "The coda flower is the fruiting body collected from the large primitive draggle-tail plant which grows in shallow swamp-water. They are most commonly found in the Bitter Coast region of Vvardenfell. Coda Flowers have an interesting property in that they glow in the dark. The plants actually emit light that illuminates things around them."
+    },
+    "Columbine": {
+        "effects": {
+            "positive": [
+                "Restore Personality",
+                "Resist Frost",
+                "Fortify Magicka",
+                "Chameleon",
+                "Restore Health",
+                "Restore Magicka",
+                "Restore Stamina",
+                "Unstoppable"
+            ]
+        },
+        "description": "Columbine is a small plant with many drooping pink flowers that can be found all across Tamriel. It is a prized ingredient for many potions due to its effects."
+    },
+    "Comberry": {
+        "effects": {
+            "negative": [
+                "Drain Fatigue",
+                "Damage Stamina"
+            ],
+            "positive": [
+                "Restore Magicka",
+                "Fire Shield",
+                "Reflect",
+                "Spell Absorption",
+                "Fortify Destruction"
+            ]
+        },
+        "description": "Comberries comes from the Comberry Plant, a bush that produces a bitter berry, best known as the basis of comberry brandy, a rough but potent alcoholic beverage of Morrowind. Comberry is commonly grown in the Ascadian Isles region of Vvardenfell"
+    },
+    "Congealed Putrescence": {
+        "effects": {
+            "positive": [
+                "Restore Strength",
+                "Restore Magicka",
+                "Fortify Conjuration"
+            ],
+            "negative": [
+                "Fire Damage",
+                "Damage Health",
+                "Ravage Health",
+                "Weakness to Fire"
+            ]
+        },
+        "description": "Congealed Putrescence comes from the fungus Putrid Gigantea, which is native to the Dementia region of the Shivering Isles."
+    },
+    "Copper": {
+        "effects": {
+            "positive": [
+                "Detect Magic"
+            ]
+        }
+    },
+    "Corkbulb Root": {
+        "effects": {
+            "positive": [
+                "Cure Paralyzation",
+                "Restore Health",
+                "Lightning Shield",
+                "Fortify Luck",
+                "Resist Shock",
+                "Fortify Marksman"
+            ],
+            "negative": [
+                "Paralysis"
+            ]
+        },
+        "description": "Corkbulb Roots comes from Corkbulb Trees which are grown for their tough, fibrous roots which have modest magical properties and can also be used to fashion arrows and bolts. It is rarely seen in the wild.. On Vvardenfell, corkbulb root is used in place of wood, since trees won't grow in the harsh environment. Corkbulb grows best in the Ascadian Isles."
+    },
+    "Corn": {
+        "effects": {
+            "positive": [
+                "Restore Fatigue",
+                "Restore Intelligence",
+                "Shock Shield"
+            ],
+            "negative": [
+                "Damage Agility"
+            ]
+        },
+        "description": "Corn is a common staple food harvested from Corn Stalks."
+    },
+    "Corn Flower": {
+        "effects": {
+            "positive": [
+                "Restore Magicka",
+                "Increase Spell Power",
+                "Detection"
+            ],
+            "negative": [
+                "Ravage Health"
+            ]
+        },
+        "description": "The Corn Flower is a small plant with blue petals that grow all across Tamriel."
+    },
+    "Corprus Weepings": {
+        "effects": {
+            "negative": [
+                "Drain Fatigue",
+                "Drain Willpower"
+            ],
+            "positive": [
+                "Fortify Luck",
+                "Restore Health"
+            ]
+        },
+        "description": "Corprus weepings are hardened secretions that fall from the fleshy sores of corprus victims."
+    },
+    "Corprusmeat": {
+        "effects": {
+            "negative": [
+                "Drain Fatigue",
+                "Drain Health",
+                "Drain Magicka"
+            ]
+        }
+    },
+    "Crab Meat": {
+        "effects": {
+            "positive": [
+                "Restore Fatigue",
+                "Resist Shock",
+                "Lightning Shield",
+                "Restore Luck",
+                "Restore Endurance",
+                "Fire Shield",
+                "Restore Health"
+            ],
+            "negative": [
+                "Damage Fatigue"
+            ]
+        },
+        "description": "Crab Meat comes from Mudcrabs and is used as both food and in alchemy due to its modest magical properties."
+    },
+    "Creep Cluster": {
+        "effects": {
+            "positive": [
+                "Restore Magicka",
+                "Fortify Carry Weight"
+            ],
+            "negative": [
+                "Damage Stamina Regen",
+                "Weakness to Magic"
+            ]
+        },
+        "description": "Creep Clusters are masses of strange orange-brown roots found growing over rocks in the sulfurous region of Eastmarch in Skyrim."
+    },
+    "Crimson Nirnroot": {
+        "effects": {
+            "negative": [
+                "Damage Health",
+                "Damage Stamina",
+                "Timidity",
+                "Gradual Ravage Health"
+            ],
+            "positive": [
+                "Invisibility",
+                "Resist Magic",
+                "Spell Critical",
+                "Restore Health"
+            ]
+        },
+        "description": "Crimson Nirnroot is a special variant of nirnroot that can be found exclusively in Blackreach. Similar to regular nirnroot, the crimson variety makes a strange humming sound."
+    },
+    "Cyrodilic Spadetail": {
+        "effects": {
+            "negative": [
+                "Damage Stamina",
+                "Fear",
+                "Ravage Health"
+            ],
+            "positive": [
+                "Fortify Restoration"
+            ]
+        },
+        "description": "Cyrodilic Spadetails are fish that can be caught in ponds, lakes, and other bodies of water."
+    },
+    "Daedra Heart": {
+        "effects": {
+            "positive": [
+                "Increase Willpower",
+                "Restore Magicka",
+                "Fortify Endurance",
+                "Night Eye",
+                "Restore Health",
+                "Shock Shield"
+            ],
+            "negative": [
+                "Damage Health",
+                "Drain Agility",
+                "Damage Magicka",
+                "Silence",
+                "Damage Stamina Regen",
+                "Fear"
+            ]
+        },
+        "description": "A Daedra Heart (or aortas daedrae) is an ingredient that can be harvested from slain Daedra, primarily Dremora. In older times, they could be found on many other varieties of Daedra, including Clannfears, Daedroths, Golden Saints, Hungers, Ogrims, and Xivilai. These beings, to the extent that they can still be encountered, now produce other ingredients.  But Dremora have consistently been a reliable source for Daedra Hearts."
+    },
+    "Daedra Silk": {
+        "effects": {
+            "negative": [
+                "Burden",
+                "Damage Endurance",
+                "Lingering Damage Stamina",
+                "Paralysis"
+            ],
+            "positive": [
+                "Night-Eye",
+                "Chameleon",
+                "Night Eye",
+                "Invisibility"
+            ]
+        },
+        "description": "Daedra Silk is produced by Spider Daedra, and can be harvested from their corpses."
+    },
+    "Daedra Skin": {
+        "effects": {
+            "positive": [
+                "Fortify Strength",
+                "Cure Common Disease",
+                "Swift Swim"
+            ],
+            "negative": [
+                "Paralyze"
+            ]
+        },
+        "description": "Daedra Skin is a very rare ingredient."
+    },
+    "Daedra Venin": {
+        "effects": {
+            "negative": [
+                "Paralyze",
+                "Damage Health",
+                "Ravage Health",
+                "Paralysis"
+            ],
+            "positive": [
+                "Restore Fatigue",
+                "Reflect Damage",
+                "Fortify Destruction",
+                "Spell Absorption"
+            ]
+        },
+        "description": "Daedra Venin is produced by Spider Daedra, and can be extracted from their corpses."
+    },
+    "Daedroth Sac": {
+        "effects": {
+            "positive": [
+                "Fortify Defense"
+            ]
+        }
+    },
+    "Daedroth Teeth": {
+        "effects": {
+            "positive": [
+                "Night-Eye",
+                "Frost Shield",
+                "Light",
+                "Resist Frost",
+                "Regenerate Stamina"
+            ],
+            "negative": [
+                "Burden",
+                "Damage Magicka Regen"
+            ]
+        },
+        "description": "Daedroth Teeth are harvested from the deadly Daedroth, a rare Daedra with crocodilian features."
+    },
+    "Deathbell": {
+        "effects": {
+            "negative": [
+                "Damage Health",
+                "Ravage Stamina",
+                "Slow",
+                "Weakness to Poison"
+            ],
+            "positive": [
+                "Resist Poison"
+            ]
+        },
+        "description": "Deathbells are flowers that grow in Skyrim and Cyrodiil, useful in making poisons."
+    },
+    "Deathsnow Dust": {
+        "effects": {
+            "positive": [
+                "Increase Attack"
+            ],
+            "negative": [
+                "Damage"
+            ]
+        }
+    },
+    "Deformed Swamp Tentacle": {},
+    "Diamond": {
+        "effects": {
+            "positive": [
+                "Spell Resistance",
+                "Invisibility",
+                "Reflect",
+                "Detect Key"
+            ],
+            "negative": [
+                "Drain Agility"
+            ]
+        },
+        "description": "Diamonds are mined from volcanic regions such as Vvardenfell in Morrowind, and can also be found in mineral deposits in Skyrim.  They are also commonly found in the ruins of the Dwemer, who presumably had industrial uses for them."
+    },
+    "Dog Food": {
+        "effects": {
+            "positive": [
+                "Fortify Health",
+                "Dispel"
+            ],
+            "negative": [
+                "Damage Fatigue",
+                "Damage Magicka"
+            ]
+        }
+    },
+    "Dragon Claw": {},
+    "Dragon Rheum": {
+        "effects": {
+            "positive": [
+                "Restore Magicka",
+                "Heroism",
+                "Speed"
+            ],
+            "negative": [
+                "Enervation"
+            ]
+        }
+    },
+    "Dragon's Bile": {
+        "effects": {
+            "positive": [
+                "Heroism",
+                "Invisible",
+                "Vitality"
+            ],
+            "negative": [
+                "Vulnerability"
+            ]
+        }
+    },
+    "Dragon's Blood": {
+        "effects": {
+            "positive": [
+                "Lingering Health",
+                "Restore Stamina",
+                "Heroism"
+            ],
+            "negative": [
+                "Defile"
+            ]
+        }
+    },
+    "Dragon's scales": {
+        "effects": {
+            "positive": [
+                "Spell Absorption"
+            ]
+        }
+    },
+    "Dragon's Tongue": {
+        "effects": {
+            "positive": [
+                "Resist Fire",
+                "Restore Health",
+                "Fire Shield",
+                "Fortify Barter",
+                "Fortify Illusion",
+                "Fortify Two-handed"
+            ],
+            "negative": [
+                "Damage Health"
+            ]
+        },
+        "description": "Dragon's Tongue flowers grow in Cyrodiil and Skyrim, and are valued for their fire resistance abilities."
+    },
+    "Dragonthorn": {
+        "effects": {
+            "positive": [
+                "Increase Weapon Power",
+                "Restore Stamina",
+                "Weapon Critical"
+            ],
+            "negative": [
+                "Fracture"
+            ]
+        },
+        "description": "Dragonthorn flowers grow in all of Tamriel and are valued for stamina restoration abilities. The flowers won't grow in saltwater."
+    },
+    "Dreugh Wax": {
+        "effects": {
+            "positive": [
+                "Fortify Strength",
+                "Restore Strength",
+                "Resist Poison",
+                "Water Breathing",
+                "Fortify Enchanting",
+                "Fortify Smithing"
+            ],
+            "negative": [
+                "Drain Luck",
+                "Drain Willpower",
+                "Damage Fatigue",
+                "Damage Health",
+                "Weakness to Magic",
+                "Frenzy"
+            ]
+        },
+        "description": "Dreugh Wax is found on Dreugh, both the sea-bound variety seen around Vvardenfell and their land-based cousins in Cyrodiil. Dreugh which consume Ash Basil are known to produce a more durable wax."
+    },
+    "Drothweed": {
+        "description": "Drothweed is a substance that has the poisonous properties of greatly decreasing strength while also draining speed and agility. It can be created by combining palm, bamboo, and black rose together."
+    },
+    "Dry Juniper Leaf": {
+        "description": "Dry Juniper Leaf is a green leaf that comes from the Juniper tree. It's used in medicines and certain Ash'abah rituals."
+    },
+    "Dryad Saddle Polypore Cap": {
+        "effects": {
+            "positive": [
+                "Restore Luck",
+                "Resist Frost"
+            ],
+            "negative": [
+                "Damage Speed",
+                "Frost Damage"
+            ]
+        },
+        "description": "Dryad Saddle Polypore Caps are a rare shelf fungus found on stone walls and caves in Cyrodiil."
+    },
+    "Durzog Meat": {
+        "effects": {
+            "positive": [
+                "Fortify Agility",
+                "Fortify Strength"
+            ],
+            "negative": [
+                "Blind",
+                "Damage Magicka"
+            ]
+        },
+        "description": "Durzog Meat is the meat of the Durzog, a dog-like reptilian creature found both domesticated and wild in the Deshaan region of Morrowind."
+    },
+    "Dwarven Oil": {
+        "effects": {
+            "positive": [
+                "Damage Health",
+                "Fortify Acrobatics",
+                "Fortify Illusion",
+                "Regenerate Magicka",
+                "Restore Magicka"
+            ],
+            "negative": [
+                "Damage Health",
+                "Weakness to Magic"
+            ]
+        },
+        "description": "Dwarven Oil is extracted from Dwarven automatons, found in Dwemer ruins in Skyrim.  Similar machines found around Vvardenfell were once used as a source of Scrap Metal."
+    },
+    "Earth Moss": {
+        "effects": {
+            "positive": [
+                "Damage Strength",
+                "Increase Agility"
+            ],
+            "negative": [
+                "Damage Endurance",
+                "Damage Strength"
+            ]
+        }
+    },
+    "Ectoplasm": {
+        "effects": {
+            "positive": [
+                "Etherealness",
+                "Fortify Agility",
+                "Detect Animal",
+                "Dispel",
+                "Fortify Magicka",
+                "Restore Magicka",
+                "Fortify Destruction"
+            ],
+            "negative": [
+                "Drain Strength",
+                "Drain Health",
+                "Shock Damage",
+                "Damage Health"
+            ]
+        },
+        "description": "Ectoplasm is a filmy residue with modest magical properties that remains after a ghost, or spirit has been banished from the mortal plane. Garments made of ectoplasm are lightweight, frigid, and useful for keeping smiths from suffering heat exhaustion."
+    },
+    "Elf Cup Cap": {
+        "effects": {
+            "negative": [
+                "Damage Willpower",
+                "Damage Intelligence"
+            ],
+            "positive": [
+                "Cure Disease",
+                "Fortify Strength"
+            ]
+        },
+        "description": "Elf Cup Caps comes from the plant Elf Cup, which is a mushroom found in the West Weald region of Cyrodiil."
+    },
+    "Elixir vitae": {},
+    "Elves Ear": {
+        "effects": {
+            "positive": [
+                "Restore Magicka",
+                "Fortify Marksman",
+                "Resist Fire"
+            ],
+            "negative": [
+                "Weakness to Frost"
+            ]
+        }
+    },
+    "Elytra Ichor": {
+        "effects": {
+            "positive": [
+                "Restore Magicka",
+                "Chameleon",
+                "Invisibility"
+            ],
+            "negative": [
+                "Burden",
+                "Silence",
+                "Slow",
+                "Fear"
+            ]
+        },
+        "description": "Elytra Ichor is harvested from dead elytra which are native to the Shivering Isles."
+    },
+    "Emerald": {
+        "effects": {
+            "positive": [
+                "Chameleon",
+                "Fortify Magicka",
+                "Restore Health"
+            ],
+            "negative": [
+                "Drain Agility",
+                "Drain Endurance"
+            ]
+        },
+        "description": "Emeralds are a rare transparent green gem with modest magical properties."
+    },
+    "Emetic Russula": {
+        "effects": {
+            "positive": [
+                "Restore Agility",
+                "Shield"
+            ],
+            "negative": [
+                "Damage Personality",
+                "Damage Endurance",
+                "Ravage Health",
+                "Ravage Magicka",
+                "Ravage Stamina",
+                "Entrapment"
+            ]
+        },
+        "description": "Emetic Russula is a red fungus that can be found all across Tamriel."
+    },
+    "Emperor Parasol Moss": {
+        "effects": {
+            "negative": [
+                "Damage Health"
+            ],
+            "positive": [
+                "Fortify Magicka",
+                "Regenerate Health",
+                "Fortify Two-handed"
+            ]
+        },
+        "description": "Emperor Parasol Moss can often be found hanging from Emperor Parasol mushrooms native to Morrowind. Moss hanging from the Emperor Parasols on Solstheim is known to be used in alchemy."
+    },
+    "Eye of Sabre Cat": {
+        "effects": {
+            "positive": [
+                "Restore Stamina",
+                "Restore Health"
+            ],
+            "negative": [
+                "Ravage Health",
+                "Damage Magicka"
+            ]
+        }
+    },
+    "Fairy dragon's scales": {
+        "effects": {
+            "positive": [
+                "Spell Reflection"
+            ]
+        }
+    },
+    "Falmer Ear": {
+        "effects": {
+            "negative": [
+                "Damage Health",
+                "Frenzy"
+            ],
+            "positive": [
+                "Resist Poison",
+                "Fortify Lockpicking"
+            ]
+        }
+    },
+    "Felldew": {
+        "effects": {
+            "other": [
+                "Felldew Effect"
+            ]
+        }
+    },
+    "Felsaad Tern Feathers": {
+        "effects": {
+            "positive": [
+                "Restore Health",
+                "Fortify Light Armor",
+                "Cure Disease",
+                "Resist Magic"
+            ]
+        }
+    },
+    "Fennel Seeds": {
+        "effects": {
+            "positive": [
+                "Restore Fatigue"
+            ],
+            "negative": [
+                "Damage Intelligence",
+                "Damage Magicka",
+                "Paralyze"
+            ]
+        },
+        "description": "Fennel Seeds comes from the plant Fennel, which is most commonly found in the northern part of the Gold Coast region of Cyrodiil."
+    },
+    "Fig": {
+        "effects": {
+            "positive": [
+                "Resist Fire"
+            ]
+        }
+    },
+    "Fine-Cut Void Salts": {},
+    "Fire Petal": {
+        "effects": {
+            "positive": [
+                "Resist Fire",
+                "Spell Absorption"
+            ],
+            "negative": [
+                "Drain Health",
+                "Paralyze",
+                "Damage Health",
+                "Paralysis"
+            ]
+        },
+        "description": "Fire Petals are collected from the fire fern plant that grows in the Red Mountain, and Azura's Coast regions of Vvardenfell."
+    },
+    "Fire Salts": {
+        "effects": {
+            "negative": [
+                "Drain Health",
+                "Fire Damage",
+                "Weakness to Frost",
+                "Weakness to Fire"
+            ],
+            "positive": [
+                "Fortify Agility",
+                "Resist Frost",
+                "Fire Shield",
+                "Restore Magicka",
+                "Resist Fire",
+                "Regenerate Magicka"
+            ]
+        },
+        "description": "Fire salts are a crystalline compound that may be collected from the remains of fire atronachs that have been banished from the mortal plane."
+    },
+    "Flame Stalk": {
+        "effects": {
+            "positive": [
+                "Restore Health",
+                "Frost Shield",
+                "Invisibility",
+                "Resist Frost"
+            ],
+            "negative": [
+                "Fire Damage",
+                "Weakness to Fire"
+            ]
+        },
+        "description": "Flame Stalks comes from the plant of the same name that exclusively grows in the Mania region of the Shivering Isles."
+    },
+    "Flaming Eye of the Lightkeeper": {},
+    "Flax Seeds": {
+        "effects": {
+            "positive": [
+                "Restore Magicka",
+                "Feather",
+                "Shield"
+            ],
+            "negative": [
+                "Damage Health"
+            ]
+        },
+        "description": "Flax Seeds comes from the plant Flax, which can be found all across Tamriel. There are three varieties of the plant, one with yellow flowers, one with red flowers, and one with blue flowers."
+    },
+    "Fleshfly Larva": {
+        "effects": {
+            "negative": [
+                "Ravage Stamina",
+                "Vulnerability",
+                "Gradual Ravage Health"
+            ],
+            "positive": [
+                "Vitality"
+            ]
+        }
+    },
+    "Floater Sac": {
+        "effects": {
+            "positive": [
+                "Increase Magic Resistance"
+            ]
+        }
+    },
+    "Flour": {
+        "effects": {
+            "positive": [
+                "Restore Fatigue",
+                "Fortify Fatigue",
+                "Reflect Damage",
+                "Restore Health"
+            ],
+            "negative": [
+                "Damage Personality"
+            ]
+        }
+    },
+    "Fly Amanita": {
+        "effects": {
+            "positive": [
+                "Restore Agility",
+                "Restore Health",
+                "Resist Fire",
+                "Fortify Two-handed",
+                "Regenerate Stamina"
+            ],
+            "negative": [
+                "Burden",
+                "Shock Damage",
+                "Frenzy"
+            ]
+        }
+    },
+    "Fox Herb": {
+        "effects": {
+            "positive": [
+                "Increase Precise Magic"
+            ]
+        }
+    },
+    "Foxglove Nectar": {
+        "effects": {
+            "positive": [
+                "Resist Poison",
+                "Resist Paralysis",
+                "Restore Luck",
+                "Resist Disease"
+            ]
+        },
+        "description": "Foxglove Nectar comes from the plant Foxglove, which is very common in the Nibenay Valley region of Cyrodiil."
+    },
+    "Frost Mirriam": {
+        "effects": {
+            "positive": [
+                "Resist Frost",
+                "Fortify Sneak"
+            ],
+            "negative": [
+                "Ravage Magicka",
+                "Damage Stamina Regen"
+            ]
+        }
+    },
+    "Frost Salts": {
+        "effects": {
+            "negative": [
+                "Drain Speed",
+                "Frost Damage",
+                "Silence",
+                "Weakness to Fire",
+                "Weakness to Frost"
+            ],
+            "positive": [
+                "Restore Magicka",
+                "Frost Shield",
+                "Resist Fire",
+                "Resist Frost",
+                "Fortify Conjuration"
+            ]
+        },
+        "description": "Frost Salts are the crystalline compound that may be collected from the remains of frost atronachs that have been banished from the mortal plane. Refined Frost Salts are samples prepared by mages possessing even greater purity."
+    },
+    "Fungus Stalk": {
+        "effects": {
+            "positive": [
+                "Restore Strength",
+                "Water Walking",
+                "Fortify Health",
+                "Restore Magicka",
+                "Fortify Stamina",
+                "Waterbreathing"
+            ]
+        },
+        "description": "Fungus Stalks comes from the plant of the same name, which are native to the Dementia region of the Shivering Isles."
+    },
+    "Garlic": {
+        "effects": {
+            "positive": [
+                "Resist Disease",
+                "Frost Shield",
+                "Fortify Strength",
+                "Resist Poison",
+                "Fortify Stamina",
+                "Regenerate Magicka",
+                "Regenerate Health"
+            ],
+            "negative": [
+                "Damage Agility"
+            ]
+        }
+    },
+    "Ghost Flame": {
+        "effects": {
+            "negative": [
+                "Drain Fatigue"
+            ]
+        }
+    },
+    "Ghoul Heart": {
+        "effects": {
+            "negative": [
+                "Paralyze"
+            ],
+            "positive": [
+                "Cure Poison",
+                "Fortify Attack"
+            ]
+        },
+        "description": "Ghoul Hearts are incredibly rare heart tissues collected from the remains of ash ghouls."
+    },
+    "Ghoul's tongue": {
+        "effects": {
+            "positive": [
+                "Tongues"
+            ]
+        }
+    },
+    "Giant Lichen": {
+        "effects": {
+            "negative": [
+                "Weakness to Shock",
+                "Ravage Health",
+                "Weakness to Poison"
+            ],
+            "positive": [
+                "Restore Magicka"
+            ]
+        },
+        "description": "Giant Lichen is harvested from a fungus of the same name which is found in the marshes of Hjaalmarch in the province of Skyrim."
+    },
+    "Giant scorpion stinger": {},
+    "Giant's blood": {
+        "effects": {
+            "other": [
+                "Diminution"
+            ]
+        }
+    },
+    "Giant's Toe": {
+        "effects": {
+            "negative": [
+                "Damage Stamina",
+                "Damage Stamina Regen"
+            ],
+            "positive": [
+                "Fortify Health",
+                "Fortify Carry Weight"
+            ]
+        },
+        "description": "Giant's Toes are gathered from slain Giants. The toes of a Giant have extremelly potent benefits both in alchemy and enchanting."
+    },
+    "Gingko Leaf": {
+        "effects": {
+            "positive": [
+                "Cure Disease",
+                "Restore Speed",
+                "Fortify Magicka"
+            ],
+            "negative": [
+                "Damage Luck",
+                "Shock Damage"
+            ]
+        },
+        "description": "Gingko Leaves are harvested from the eponymous Gingko Trees that are found throughout the provinces of Cyrodiil, Summerset Isle, as well as close to the rivers and lakes of Hammerfell."
+    },
+    "Ginseng": {
+        "effects": {
+            "negative": [
+                "Damage Luck",
+                "Burden"
+            ],
+            "positive": [
+                "Cure Poison",
+                "Fortify Magicka"
+            ]
+        },
+        "description": "Ginseng can be harvested from the Ginseng Plant, which can be found all across Tamriel. There are two varieties of the plant, one with yellow flowers and one with red flowers."
+    },
+    "Girith's Guar Hide": {},
+    "Glacier Flower": {
+        "effects": {
+            "positive": [
+                "Drain Fatigue",
+                "Increase Luck"
+            ],
+            "negative": [
+                "Drain Fatigue"
+            ]
+        }
+    },
+    "Glacier Moss": {
+        "effects": {
+            "positive": [
+                "Drain Fatigue",
+                "Increase Willpower"
+            ],
+            "negative": [
+                "Drain Fatigue"
+            ]
+        }
+    },
+    "Glassfish": {
+        "effects": {
+            "positive": [
+                "Restore Magicka",
+                "Invisibility",
+                "Fortify Illusion",
+                "Fortify Persuasion"
+            ]
+        }
+    },
+    "Gleamblossom": {
+        "effects": {
+            "positive": [
+                "Resist Magic",
+                "Regenerate Health"
+            ],
+            "negative": [
+                "Fear",
+                "Paralysis"
+            ]
+        },
+        "description": "Gleamblossom is harvested from the plant of the same name, a purple flower found mainly within the Forgotten Vale in Skyrim. There have also been rare samples found in Valenwood caves."
+    },
+    "Glow Dust": {
+        "effects": {
+            "positive": [
+                "Restore Speed",
+                "Light",
+                "Reflect Spell",
+                "Fortify Destruction",
+                "Resist Shock",
+                "Restore Magicka"
+            ],
+            "negative": [
+                "Damage Health",
+                "Damage Magicka",
+                "Damage Magicka Regen",
+                "Damage Magicka Regeneration"
+            ]
+        },
+        "description": "Glow Dust are harvested from wisps, wispmothers, and will-o-the-wisps. It has a strange consistency, a little like the web of Frostbite spiders. There are two varieties of glow dust\u2014\u2014Vital Glow Dust, which is the remains of freshly departed Wispmothers, and Faint Glow Dust, which is the faded remains of a wisp, or a wispmother of inconsiderable power."
+    },
+    "Glowing Mushroom": {
+        "effects": {
+            "positive": [
+                "Resist Shock",
+                "Fortify Destruction",
+                "Fortify Smithing",
+                "Fortify Health",
+                "Restore Health"
+            ]
+        },
+        "description": "Glowing Mushrooms are a bioluminescent fungus that grows on the wall of caves. It is found abundantly in Skyrim, but can also be found elsewhere."
+    },
+    "Gnarl Bark": {
+        "effects": {
+            "positive": [
+                "Restore Endurance",
+                "Shield",
+                "Fire Shield",
+                "Regenerate Health",
+                "Fortify Heavy Armor",
+                "Resist Fire"
+            ],
+            "negative": [
+                "Damage Health"
+            ]
+        },
+        "description": "Gnarl Bark is harvested from Gnarls that inhabit the Shivering Isles, as well as from Spriggans corrupted by the influence of Sheogorath's realm."
+    },
+    "Goblin Wax": {
+        "effects": {
+            "positive": [
+                "Damage Strength",
+                "Increase Speed"
+            ],
+            "negative": [
+                "Damage Personality",
+                "Damage Strength"
+            ]
+        }
+    },
+    "Gold": {
+        "effects": {
+            "positive": [
+                "Charm Mortal"
+            ]
+        }
+    },
+    "Gold Kanet": {
+        "effects": {
+            "negative": [
+                "Drain Health",
+                "Burden",
+                "Drain Luck",
+                "Paralysis",
+                "Ravage Health",
+                "Weakness to Frost"
+            ],
+            "positive": [
+                "Restore Strength",
+                "Fortify Smithing"
+            ]
+        },
+        "description": "Gold Kanet is a flowering plant commonly found in the Ascadian Isles, and Azura's Coast regions of Vvardenfell."
+    },
+    "Golden poppy": {
+        "effects": {
+            "positive": [
+                "Charm Mortal"
+            ]
+        }
+    },
+    "Golden Sedge Flowers": {
+        "effects": {
+            "negative": [
+                "Drain Magicka"
+            ],
+            "positive": [
+                "Fortify Strength",
+                "Fortify Attack",
+                "Swift Swim"
+            ]
+        },
+        "description": "Golden Sedge Flowers are a yellow flower that can only be found in the city of Mournhold in Morrowind."
+    },
+    "Goldfish": {
+        "effects": {
+            "positive": [
+                "Restore Stamina",
+                "Fortify Heavy Armor",
+                "Waterbreathing",
+                "Resist Frost"
+            ]
+        }
+    },
+    "Gorgon snake": {
+        "effects": {
+            "positive": [
+                "Climbing"
+            ]
+        }
+    },
+    "Grahl Eyeball": {
+        "effects": {
+            "positive": [
+                "Resist Frost",
+                "Night Eye",
+                "Fortify Strength"
+            ],
+            "negative": [
+                "Drain Magicka"
+            ]
+        },
+        "description": "Grahl Eyeballs are a rare ingredient that can be extracted from slain Grahls, which are often found in the ice caves of Solstheim. Grahls are noted for possessing a third eye. Grahl eyeballs are sometimes mummified and repurposed as tough, leathery pouches for carrying small items."
+    },
+    "Grapes": {
+        "effects": {
+            "positive": [
+                "Restore Fatigue",
+                "Water Walking",
+                "Dispel"
+            ],
+            "negative": [
+                "Damage Health"
+            ]
+        }
+    },
+    "Grass Pod": {
+        "effects": {
+            "positive": [
+                "Resist Poison",
+                "Fortify Alteration",
+                "Restore Magicka"
+            ],
+            "negative": [
+                "Ravage Magicka"
+            ]
+        },
+        "description": "Grass Pods are harvested from Spiky Grass plants that grow along Skyrim's northern coasts and along the rivers around Morthal."
+    },
+    "Gravedust": {
+        "effects": {
+            "negative": [
+                "Drain Intelligence",
+                "Drain Magicka"
+            ],
+            "positive": [
+                "Cure Common Disease",
+                "Restore Endurance"
+            ]
+        },
+        "description": "Gravedust is spirit-affinitive dust taken from remains buried in consecrated ground."
+    },
+    "Gravetar": {
+        "effects": {
+            "positive": [
+                "Resist Frost",
+                "Fortify Fatigue"
+            ],
+            "negative": [
+                "Drain Health",
+                "Drain Luck"
+            ]
+        }
+    },
+    "Gray Mushroom": {
+        "effects": {
+            "positive": [
+                "Increase Speed"
+            ]
+        }
+    },
+    "Green berries": {
+        "effects": {
+            "negative": [
+                "Damage Health"
+            ]
+        }
+    },
+    "Green Butterfly Wing": {
+        "effects": {
+            "positive": [
+                "Restore Magicka",
+                "Invisibility"
+            ],
+            "negative": [
+                "Fear",
+                "Slow"
+            ]
+        }
+    },
+    "Green leaves": {
+        "effects": {
+            "positive": [
+                "Jumping"
+            ]
+        }
+    },
+    "Green Lichen": {
+        "effects": {
+            "positive": [
+                "Fortify Personality",
+                "Cure Common Disease"
+            ],
+            "negative": [
+                "Drain Strength",
+                "Drain Health"
+            ]
+        },
+        "description": "Green lichen is a rare and hardy primitive plant with modest magical properties that grows in the West Gash region of Vvardenfell."
+    },
+    "Green Stain Cup Cap": {
+        "effects": {
+            "positive": [
+                "Restore Fatigue",
+                "Reflect Damage"
+            ],
+            "negative": [
+                "Damage Speed",
+                "Damage Health"
+            ]
+        },
+        "description": "Green Stain Cup Caps comes from the plant Green Stain Cup, which is a very common mushroom in the Blackwood region, but can also be found in smaller quantities in the Great Forest and Nibenay Valley regions of Cyrodiil."
+    },
+    "Green Stain Shelf Cap": {
+        "effects": {
+            "positive": [
+                "Restore Luck",
+                "Fortify Luck",
+                "Restore Health"
+            ],
+            "negative": [
+                "Damage Fatigue"
+            ]
+        },
+        "description": "Green Stain Shelf Cap is a rare mushroom that comes from the plant LoreGreen Stain Shelf|Green Stain Shelf, easily mistaken for the abundant Green Stain Cup mushroom. Green Stain Shelf mushrooms tend to grow on the sides of trees and rocks, whereas the Cup variety tends to grow on the ground."
+    },
+    "Greenmote": {
+        "effects": {
+            "other": [
+                "Greenmote Rapture"
+            ]
+        }
+    },
+    "Grummite Eggs": {
+        "effects": {
+            "negative": [
+                "Damage Magicka",
+                "Silence"
+            ],
+            "positive": [
+                "Dispel",
+                "Chameleon"
+            ]
+        }
+    },
+    "Gryphon's feather": {
+        "effects": {
+            "positive": [
+                "Slowfall"
+            ]
+        }
+    },
+    "Guar Hide": {
+        "effects": {
+            "negative": [
+                "Drain Fatigue"
+            ],
+            "positive": [
+                "Fortify Endurance",
+                "Restore Personality",
+                "Fortify Luck"
+            ]
+        }
+    },
+    "Hackle-Lo Leaf": {
+        "effects": {
+            "positive": [
+                "Restore Fatigue",
+                "Water Breathing",
+                "Restore Luck",
+                "Restore Stamina",
+                "Waterbreathing",
+                "Fortify Restoration"
+            ],
+            "negative": [
+                "Paralyze",
+                "Paralysis"
+            ]
+        },
+        "description": "Hackle-lo leaf is an edible succulent leaf native to the Grazelands region of Vvardenfell. It's prized both for its taste and its restorative powers."
+    },
+    "Hagraven Claw": {
+        "effects": {
+            "positive": [
+                "Resist Magic",
+                "Fortify Enchanting",
+                "Fortify Barter"
+            ],
+            "negative": [
+                "Lingering Damage Magicka"
+            ]
+        }
+    },
+    "Hagraven Feathers": {
+        "effects": {
+            "negative": [
+                "Damage Magicka",
+                "Frenzy",
+                "Weakness to Shock"
+            ],
+            "positive": [
+                "Fortify Conjuration"
+            ]
+        }
+    },
+    "Ham": {
+        "effects": {
+            "positive": [
+                "Restore Fatigue",
+                "Restore Health"
+            ],
+            "negative": [
+                "Damage Magicka",
+                "Damage Luck"
+            ]
+        }
+    },
+    "Hanging Moss": {
+        "effects": {
+            "negative": [
+                "Damage Magicka",
+                "Damage Magicka Regen"
+            ],
+            "positive": [
+                "Fortify Health",
+                "Fortify One-handed"
+            ]
+        },
+        "description": "Hanging Moss is a plant found growing off rocky ledges, trees, and the ceilings of caves."
+    },
+    "Harrada": {
+        "effects": {
+            "negative": [
+                "Damage Health",
+                "Damage Magicka",
+                "Silence",
+                "Paralyze",
+                "Paralysis",
+                "Damage Magicka Regen"
+            ]
+        },
+        "description": "Harrada comes from the Harrada Root plant, which is native to Mehrunes Dagon's realm of Oblivion, the Deadlands. Normally Harrada Root plants are not found in Tamriel, however they take root outside of certain Oblivion Gates that lead to the Deadlands."
+    },
+    "Hawk Beak": {
+        "effects": {
+            "positive": [
+                "Restore Stamina",
+                "Resist Frost",
+                "Fortify Carry Weight",
+                "Resist Shock"
+            ]
+        }
+    },
+    "Hawk Feathers": {
+        "effects": {
+            "positive": [
+                "Cure Disease",
+                "Fortify Light Armor",
+                "Fortify One-handed",
+                "Fortify Sneak"
+            ]
+        }
+    },
+    "Hawk's Egg": {
+        "effects": {
+            "positive": [
+                "Resist Magic",
+                "Waterbreathing"
+            ],
+            "negative": [
+                "Damage Magicka Regen",
+                "Lingering Damage Stamina"
+            ]
+        }
+    },
+    "Heart of Order": {
+        "effects": {
+            "other": [
+                "Jyggalag's Favor"
+            ],
+            "positive": [
+                "Restore Health",
+                "Fortify Health",
+                "Fortify One-handed",
+                "Fortify Two-handed"
+            ]
+        }
+    },
+    "Heart of the Udyrfrykte": {},
+    "Heart of the Wolf": {},
+    "Heartwood": {
+        "effects": {
+            "positive": [
+                "Restore Magicka",
+                "Fortify Agility"
+            ],
+            "negative": [
+                "Drain Strength",
+                "Weakness to Fire"
+            ]
+        },
+        "description": "Heartwood is a rare ingredient that can be harvested from Spriggans."
+    },
+    "Heather": {
+        "effects": {
+            "positive": [
+                "Restore Personality",
+                "Feather"
+            ],
+            "negative": [
+                "Drain Speed",
+                "Drain Personality"
+            ]
+        },
+        "description": "Heather is a low evergreen shrub native to the Ascadian Isles region of Vvardenfell. It's known for its small, pinkish-purple flowers and modest magical properties."
+    },
+    "Histcarp": {
+        "effects": {
+            "positive": [
+                "Restore Stamina",
+                "Fortify Magicka",
+                "Waterbreathing"
+            ],
+            "negative": [
+                "Damage Stamina Regen"
+            ]
+        }
+    },
+    "Holly Berries": {
+        "effects": {
+            "positive": [
+                "Resist Frost",
+                "Frost Shield"
+            ],
+            "negative": [
+                "Frost Damage",
+                "Weakness to Fire"
+            ]
+        },
+        "description": "Holly Berries are a common ingredient that grows in bushes all across Solstheim."
+    },
+    "Honeycomb": {
+        "effects": {
+            "positive": [
+                "Restore Stamina",
+                "Fortify Block",
+                "Fortify Light Armor"
+            ],
+            "negative": [
+                "Ravage Stamina",
+                "Damage Stamina Regeneration"
+            ]
+        }
+    },
+    "Horker Tusk": {
+        "effects": {
+            "negative": [
+                "Drain Alteration"
+            ],
+            "positive": [
+                "Fortify Intelligence",
+                "Fortify Maximum Magicka",
+                "Detect Animal"
+            ]
+        }
+    },
+    "Horn Lily Bulb": {
+        "effects": {
+            "positive": [
+                "Resist Paralysis",
+                "Restore Strength",
+                "Restore Endurance"
+            ],
+            "negative": [
+                "Drain Health"
+            ]
+        }
+    },
+    "Horrid Tongue": {
+        "effects": {
+            "positive": [
+                "Increase Magic Resistance"
+            ]
+        }
+    },
+    "Hound Meat": {
+        "effects": {
+            "positive": [
+                "Restore Fatigue",
+                "Fortify Fatigue",
+                "Reflect",
+                "Detect Enchantment",
+                "Restore Health"
+            ]
+        },
+        "description": "Hound meat or nix-hound meat is the flesh of the nix-hound. The meat is sweet and tender, and has several magical properties."
+    },
+    "Hound Tooth": {
+        "effects": {
+            "positive": [
+                "Cure Poison",
+                "Detect Life",
+                "Invisibility"
+            ],
+            "negative": [
+                "Burden"
+            ]
+        }
+    },
+    "Human Flesh": {
+        "effects": {
+            "positive": [
+                "Fortify Health",
+                "Restore Magicka",
+                "Fortify Sneak"
+            ],
+            "negative": [
+                "Drain Intelligence",
+                "Drain Personality",
+                "Damage Health",
+                "Paralysis"
+            ]
+        }
+    },
+    "Human Heart": {
+        "effects": {
+            "positive": [
+                "Restore Health",
+                "Shock Shield"
+            ],
+            "negative": [
+                "Damage Magicka",
+                "Silence",
+                "Damage Health",
+                "Damage Magicka Regen",
+                "Frenzy"
+            ]
+        }
+    },
+    "Human Skin": {
+        "effects": {
+            "negative": [
+                "Damage Magicka",
+                "Damage Health"
+            ],
+            "positive": [
+                "Resist Shock",
+                "Reflect Damage"
+            ]
+        }
+    },
+    "Hunger Tongue": {
+        "effects": {
+            "positive": [
+                "Cure Poison",
+                "Cure Disease",
+                "Fortify Magicka"
+            ],
+            "negative": [
+                "Fire Damage",
+                "Weakness to Fire"
+            ]
+        },
+        "description": "Hunger Tongues are harvested from Hungers, a ferocious Daedra. The tongues can be used by alchemists as an ingredient in potions to cure diseases and aid those who are afflicted by poison."
+    },
+    "Hydnum Azure Giant Spore": {
+        "effects": {
+            "positive": [
+                "Restore Endurance",
+                "Detect Life",
+                "Fortify Health",
+                "Frost Shield",
+                "Resist Frost",
+                "Regenerate Health",
+                "Light"
+            ]
+        },
+        "description": "Hydnum Azure Giant Spores comes from the mushroom Hydnum Azure, which is native to the Mania region of the Shivering Isles."
+    },
+    "Hypha Facia": {
+        "effects": {
+            "negative": [
+                "Drain Luck",
+                "Drain Agility",
+                "Drain Fatigue",
+                "Weakness to Poison",
+                "Frenzy",
+                "Ravage Stamina"
+            ],
+            "positive": [
+                "Detect Enchantment",
+                "Resist Magic"
+            ]
+        }
+    },
+    "Ice Grape": {
+        "effects": {
+            "positive": [
+                "Increase Magic Resistance"
+            ]
+        }
+    },
+    "Ice Wraith Teeth": {
+        "effects": {
+            "negative": [
+                "Weakness to Frost",
+                "Weakness to Fire"
+            ],
+            "positive": [
+                "Fortify Heavy Armor",
+                "Invisibility"
+            ]
+        }
+    },
+    "Ichor": {},
+    "Imp Gall": {
+        "effects": {
+            "positive": [
+                "Fortify Personality",
+                "Cure Paralysis",
+                "Fortify Barter",
+                "Cure Poison"
+            ],
+            "negative": [
+                "Damage Health",
+                "Fire Damage",
+                "Weakness to Fire"
+            ]
+        }
+    },
+    "Imp Stool": {
+        "effects": {
+            "negative": [
+                "Damage Health",
+                "Lingering Damage Health",
+                "Paralysis",
+                "Maim",
+                "Ravage Stamina",
+                "Enervation",
+                "Damage Health Regeneration"
+            ],
+            "positive": [
+                "Restore Health",
+                "Increase Armor"
+            ]
+        },
+        "description": "Imp stools are squat, orange-capped, yellow, or golden-brown mushrooms that grow in caves, outside in the shade of trees or rocks, and on the bodies of Shroom Beetles.   "
+    },
+    "Iron Ore": {
+        "effects": {
+            "positive": [
+                "Slowfall"
+            ]
+        }
+    },
+    "Ironwood Fruit": {
+        "effects": {
+            "positive": [
+                "Restore Health",
+                "Resist Fire",
+                "Restore Magicka"
+            ],
+            "negative": [
+                "Damage Stamina"
+            ]
+        }
+    },
+    "Ironwood Nut": {
+        "effects": {
+            "positive": [
+                "Restore Intelligence",
+                "Resist Fire",
+                "Fortify Health"
+            ],
+            "negative": [
+                "Damage Fatigue"
+            ]
+        }
+    },
+    "Ivory": {
+        "effects": {
+            "positive": [
+                "Resist Cold"
+            ]
+        }
+    },
+    "References": {
+        "description": "Note The following references are considered to be unofficial sources. They are included to round off this article and may not be authoritative or conclusive."
+    },
+    "Jade": {
+        "effects": {
+            "positive": [
+                "Water Breathing",
+                "Increase Defense"
+            ]
+        }
+    },
+    "Jarrin Root": {
+        "effects": {
+            "negative": [
+                "Damage Health",
+                "Damage Magicka",
+                "Damage Stamina",
+                "Damage Magicka Regen"
+            ]
+        }
+    },
+    "Jazbay Grapes": {
+        "effects": {
+            "negative": [
+                "Weakness to Magic",
+                "Ravage Health"
+            ],
+            "positive": [
+                "Fortify Magicka",
+                "Regenerate Magicka"
+            ]
+        }
+    },
+    "Jumbo Potato": {},
+    "Juniper Berries": {
+        "effects": {
+            "negative": [
+                "Weakness to Fire",
+                "Damage Stamina Regen"
+            ],
+            "positive": [
+                "Fortify Marksman",
+                "Regenerate Health"
+            ]
+        },
+        "description": "Juniper Berries comes from the Juniper tree. It's prized for both its alchemical and flavorful propereties. Nords often use Juniper Berries to add extra flavor to mead."
+    },
+    "Juvenile Mudcrab": {
+        "effects": {
+            "positive": [
+                "Regenerate Stamina",
+                "Fortify Carry Weight",
+                "Cure Disease",
+                "Fortify Two-handed"
+            ]
+        }
+    },
+    "Kagouti Hide": {
+        "effects": {
+            "negative": [
+                "Drain Fatigue",
+                "Lingering Damage Stamina"
+            ],
+            "positive": [
+                "Fortify Speed",
+                "Resist Common Disease",
+                "Night Eye",
+                "Fortify Carry Weight",
+                "Resist Shock"
+            ]
+        }
+    },
+    "Kresh Fiber": {
+        "effects": {
+            "positive": [
+                "Restore Luck",
+                "Fortify Personality",
+                "Fortify Sneak",
+                "Fortify Pickpocket"
+            ],
+            "negative": [
+                "Drain Magicka",
+                "Drain Speed",
+                "Weakness to Magic",
+                "Slow"
+            ]
+        }
+    },
+    "Kwama Cuttle": {
+        "effects": {
+            "positive": [
+                "Resist Poison",
+                "Water Walking",
+                "Water Breathing"
+            ],
+            "negative": [
+                "Drain Fatigue"
+            ]
+        },
+        "description": "Kwama cuttle is a tough, waxy substance that comes from the beak of kwama creatures. Kwama cuttle has several magical properties."
+    },
+    "Kwama Egg": {
+        "effects": {
+            "positive": [
+                "Restore Fatigue",
+                "Frost Shield",
+                "Fortify Health"
+            ],
+            "negative": [
+                "Paralyze"
+            ]
+        },
+        "description": "Kwama eggs are a rich, nutritious foodstuff with several magical properties. Popular throughout the Empire, kwama eggs stay fresh for a long time, and kwama mining is a profitable industry on Vvardenfell."
+    },
+    "Lady's Mantle Leaves": {
+        "effects": {
+            "positive": [
+                "Restore Health",
+                "Night-Eye",
+                "Feather"
+            ],
+            "negative": [
+                "Damage Endurance"
+            ]
+        }
+    },
+    "Lady's Smock": {
+        "effects": {
+            "positive": [
+                "Restore Intelligence",
+                "Resist Fire",
+                "Fortify Health",
+                "Increase Spell Power",
+                "Restore Magicka",
+                "Spell Critical"
+            ],
+            "negative": [
+                "Damage Fatigue",
+                "Breach"
+            ]
+        }
+    },
+    "Large Antlers": {},
+    "Large Kwama Egg": {},
+    "Lavender": {
+        "effects": {
+            "positive": [
+                "Restore Personality",
+                "Fortify Willpower",
+                "Restore Health",
+                "Resist Magic",
+                "Fortify Stamina",
+                "Fortify Conjuration"
+            ],
+            "negative": [
+                "Damage Luck",
+                "Ravage Magicka"
+            ]
+        }
+    },
+    "Lead": {
+        "effects": {
+            "positive": [
+                "Slowfall"
+            ]
+        }
+    },
+    "Leek": {
+        "effects": {
+            "positive": [
+                "Restore Fatigue",
+                "Fortify Agility",
+                "Restore Health"
+            ],
+            "negative": [
+                "Damage Personality",
+                "Damage Strength"
+            ]
+        }
+    },
+    "Letifer Orca Digestive Slime": {
+        "effects": {
+            "negative": [
+                "Damage Health",
+                "Damage Fatigue",
+                "Damage Magicka"
+            ],
+            "positive": [
+                "Restore Fatigue"
+            ]
+        }
+    },
+    "Lettuce": {
+        "effects": {
+            "positive": [
+                "Restore Fatigue",
+                "Restore Luck",
+                "Fire Shield"
+            ],
+            "negative": [
+                "Damage Personality"
+            ]
+        }
+    },
+    "Lich dust": {
+        "effects": {
+            "positive": [
+                "Increase Intelligence"
+            ]
+        }
+    },
+    "Lichor": {
+        "effects": {
+            "positive": [
+                "Restore Magicka",
+                "Regenerate Magicka",
+                "Fortify Magicka",
+                "Spell Absorption"
+            ]
+        }
+    },
+    "Lloramor Spines": {
+        "effects": {
+            "positive": [
+                "Spell Absorption",
+                "Invisibility",
+                "Detect Enchantment"
+            ],
+            "negative": [
+                "Poison"
+            ]
+        }
+    },
+    "Lock Dust": {
+        "effects": {
+            "positive": [
+                "Increase disarm",
+                "Increase lock picking"
+            ]
+        }
+    },
+    "Lodestone": {
+        "effects": {
+            "positive": [
+                "Jumping"
+            ]
+        }
+    },
+    "Luminous Russula": {
+        "effects": {
+            "positive": [
+                "Water Breathing",
+                "Waterbreathing",
+                "Restore Health"
+            ],
+            "negative": [
+                "Drain Fatigue",
+                "Poison",
+                "Lingering Damage Stamina",
+                "Lingering Damage Health",
+                "Fear",
+                "Ravage Stamina",
+                "Maim",
+                "Hindrance"
+            ]
+        }
+    },
+    "Luna Moth Wing": {
+        "effects": {
+            "negative": [
+                "Damage Magicka"
+            ],
+            "positive": [
+                "Fortify Light Armor",
+                "Regenerate Health",
+                "Invisibility"
+            ]
+        }
+    },
+    "Lyretail Anthias": {
+        "effects": {
+            "positive": [
+                "Restore Magicka",
+                "Fortify Alteration",
+                "Fortify Conjuration",
+                "Fortify Carry Weight"
+            ]
+        }
+    },
+    "Magebane": {
+        "description": "Magebane is a substance that has the poisonous properties of greatly decreasing magicka while also draining willpower. It can be created by combining ghost essence, Werewolf's blood, and rubies together."
+    },
+    "Malachite": {
+        "effects": {
+            "negative": [
+                "Silence"
+            ]
+        }
+    },
+    "Mana Ice": {
+        "effects": {
+            "positive": [
+                "Restore Magicka"
+            ]
+        }
+    },
+    "Mandrake Root": {
+        "effects": {
+            "positive": [
+                "Cure Disease",
+                "Resist Poison",
+                "Fortify Willpower"
+            ],
+            "negative": [
+                "Damage Agility"
+            ]
+        }
+    },
+    "Marshmerrow": {
+        "effects": {
+            "positive": [
+                "Restore Health",
+                "Detect Enchantment",
+                "Fortify Carry Weight"
+            ],
+            "negative": [
+                "Drain Willpower",
+                "Drain Fatigue",
+                "Weakness to Magic",
+                "Damage Stamina"
+            ]
+        }
+    },
+    "Marsus' Guar Hide": {},
+    "Meadow Rye": {
+        "effects": {
+            "positive": [
+                "Fortify Speed",
+                "Restore Speed"
+            ],
+            "negative": [
+                "Damage Health",
+                "Drain Speed"
+            ]
+        }
+    },
+    "Medium tooth": {},
+    "Mercury": {
+        "effects": {
+            "positive": [
+                "Increase Speed"
+            ]
+        }
+    },
+    "Meteor Slime": {},
+    "Milk Thistle Seeds": {
+        "effects": {
+            "positive": [
+                "Light",
+                "Cure Paralysis"
+            ],
+            "negative": [
+                "Frost Damage",
+                "Paralyze"
+            ]
+        }
+    },
+    "Minotaur Horn": {
+        "effects": {
+            "positive": [
+                "Restore Willpower",
+                "Fortify Endurance",
+                "Resist Paralysis",
+                "Resist Poison",
+                "Regenerate Health",
+                "Regenerate Magicka"
+            ],
+            "negative": [
+                "Burden",
+                "Damage Magicka Regen"
+            ]
+        }
+    },
+    "Monarch Butterfly Wing": {},
+    "Monkshood Root Pulp": {
+        "effects": {
+            "positive": [
+                "Restore Strength",
+                "Fortify Endurance"
+            ],
+            "negative": [
+                "Damage Intelligence",
+                "Burden"
+            ]
+        }
+    },
+    "Moonseed": {
+        "description": "Moonseed is a substance that has the poisonous properties of draining health. It can be created by combining Gingko leaves green leaves, Werewolf's blood, and black poppy together."
+    },
+    "Moon Sugar": {
+        "effects": {
+            "positive": [
+                "Fortify Speed",
+                "Resist Frost",
+                "Restore Magicka",
+                "Regenerate Magicka"
+            ],
+            "mixed": [
+                "Dispel"
+            ],
+            "negative": [
+                "Drain Endurance",
+                "Drain Luck",
+                "Weakness to Fire"
+            ]
+        }
+    },
+    "Mora Tapinella": {
+        "effects": {
+            "positive": [
+                "Restore Magicka",
+                "Regenerate Stamina",
+                "Fortify Illusion"
+            ],
+            "negative": [
+                "Lingering Damage Health"
+            ]
+        }
+    },
+    "Morning Glory Root Pulp": {
+        "effects": {
+            "negative": [
+                "Burden",
+                "Damage Willpower",
+                "Damage Magicka"
+            ],
+            "positive": [
+                "Frost Shield"
+            ]
+        }
+    },
+    "Mort Flesh": {
+        "effects": {
+            "negative": [
+                "Damage Fatigue",
+                "Damage Luck",
+                "Silence",
+                "Damage Health",
+                "Damage Magicka",
+                "Damage Magicka Regen",
+                "Frenzy"
+            ],
+            "positive": [
+                "Fortify Health"
+            ]
+        },
+        "description": "Mort Flesh refers to the myriad of different appendages that have been harvested from the reanimated dead\u2014Mort fingers, mort tongues, and mort hearts. Careful handling is important, as mort flesh carries several potentially fatal diseases such as Ataxia, Helljoint, and Witbane. It has several uses in both alchemy and enchanting. It has a sweet sickly odor."
+    },
+    "Motherwort Sprig": {
+        "effects": {
+            "positive": [
+                "Resist Poison",
+                "Invisibility"
+            ],
+            "negative": [
+                "Damage Fatigue",
+                "Silence"
+            ]
+        }
+    },
+    "Mountain Flower": {
+        "effects": {
+            "positive": [
+                "Increase Armor",
+                "Restore Health",
+                "Restore Stamina"
+            ],
+            "negative": [
+                "Maim"
+            ]
+        }
+    },
+    "Mountain Jerky": {
+        "effects": {
+            "positive": [
+                "Restore Fatigue",
+                "Restore Health",
+                "Restore Magicka"
+            ]
+        }
+    },
+    "Muck": {
+        "effects": {
+            "negative": [
+                "Drain Intelligence",
+                "Drain Personality"
+            ],
+            "positive": [
+                "Detect Key",
+                "Cure Common Disease"
+            ]
+        },
+        "description": "Muck is the damp, fibrous slime from crushed muckspunge plants that grow in the West Gash, and Azura's Coast regions of Vvardenfell. Unless properly prepared, it is mildly toxic."
+    },
+    "Mudcrab Chitin": {
+        "effects": {
+            "positive": [
+                "Restore Stamina",
+                "Cure Disease",
+                "Resist Poison",
+                "Resist Fire",
+                "Increase Spell Resist",
+                "Increase Armor",
+                "Protection"
+            ],
+            "negative": [
+                "Defile"
+            ]
+        }
+    },
+    "Muffin": {
+        "effects": {
+            "positive": [
+                "Restore Fatigue"
+            ]
+        }
+    },
+    "Mugwort Seeds": {
+        "effects": {
+            "positive": [
+                "Restore Health"
+            ]
+        }
+    },
+    "Mummy wrappings": {
+        "effects": {
+            "positive": [
+                "Detect Treasure"
+            ]
+        },
+        "description": "Mummy wrappings are the cloth wrappings which were used in the preservation of a mummified corpse. Some alchemy recipes call for freshly harvested wrappings from a specific mummy."
+    },
+    "Mute Screaming Maw": {},
+    "Mutton": {
+        "effects": {
+            "positive": [
+                "Fortify Health",
+                "Dispel"
+            ],
+            "negative": [
+                "Damage Fatigue",
+                "Damage Magicka"
+            ]
+        }
+    },
+    "Namira's Rot": {
+        "effects": {
+            "negative": [
+                "Damage Magicka",
+                "Fear"
+            ],
+            "positive": [
+                "Fortify Lockpicking",
+                "Regenerate Health",
+                "Spell Critical",
+                "Speed",
+                "Invisible",
+                "Unstoppable"
+            ]
+        }
+    },
+    "Nectar": {},
+    "Netch Jelly": {
+        "effects": {
+            "negative": [
+                "Paralysis",
+                "Fear"
+            ],
+            "positive": [
+                "Fortify Carry Weight",
+                "Restore Stamina"
+            ]
+        }
+    },
+    "Netch Leather": {
+        "effects": {
+            "positive": [
+                "Fortify Endurance",
+                "Fortify Intelligence",
+                "Cure Paralyzation"
+            ],
+            "negative": [
+                "Drain Personality"
+            ]
+        }
+    },
+    "Nightshade": {
+        "effects": {
+            "negative": [
+                "Damage Health",
+                "Burden",
+                "Damage Luck",
+                "Damage Magicka Regen",
+                "Lingering Damage Stamina",
+                "Ravage Health",
+                "Gradual Ravage Health",
+                "Defile"
+            ],
+            "positive": [
+                "Fortify Magicka",
+                "Fortify Destruction",
+                "Protection"
+            ]
+        }
+    },
+    "Nirnroot": {
+        "effects": {
+            "negative": [
+                "Drain Health",
+                "Drain Fatigue",
+                "Drain Agility",
+                "Drain Speed",
+                "Damage Health",
+                "Damage Stamina",
+                "Ravage Health",
+                "Uncertainty",
+                "Enervation"
+            ],
+            "positive": [
+                "Invisibility",
+                "Resist Magic",
+                "Invisible"
+            ]
+        }
+    },
+    "Nirthfly Stalks": {
+        "effects": {
+            "negative": [
+                "Damage Health",
+                "Drain Speed"
+            ],
+            "positive": [
+                "Fortify Speed",
+                "Restore Speed"
+            ]
+        }
+    },
+    "Noble Sedge Flowers": {
+        "effects": {
+            "negative": [
+                "Damage Health",
+                "Poison"
+            ],
+            "positive": [
+                "Restore Agility",
+                "Fortify Agility"
+            ]
+        }
+    },
+    "Nordic Barnacle": {
+        "effects": {
+            "negative": [
+                "Damage Magicka"
+            ],
+            "positive": [
+                "Waterbreathing",
+                "Regenerate Health",
+                "Fortify Pickpocket"
+            ]
+        }
+    },
+    "Nux Vomica": {
+        "description": "Nux Vomica is a substance that has the poisonous properties of draining health."
+    },
+    "Nymph hair": {
+        "effects": {
+            "positive": [
+                "Increase Personality"
+            ]
+        }
+    },
+    "Ogre's Teeth": {
+        "effects": {
+            "negative": [
+                "Damage Intelligence",
+                "Shock Damage",
+                "Weakness to Shock",
+                "Lingering Damage Magicka"
+            ],
+            "positive": [
+                "Resist Paralysis",
+                "Fortify Strength",
+                "Resist Poison",
+                "Regenerate Health"
+            ]
+        }
+    },
+    "Onion": {
+        "effects": {
+            "positive": [
+                "Restore Fatigue",
+                "Water Breathing",
+                "Detect Life"
+            ],
+            "negative": [
+                "Damage Health"
+            ]
+        }
+    },
+    "Orange": {
+        "effects": {
+            "positive": [
+                "Restore Fatigue",
+                "Detect Life",
+                "Shield"
+            ],
+            "negative": [
+                "Burden"
+            ]
+        }
+    },
+    "Orange Dartwing": {
+        "effects": {
+            "positive": [
+                "Restore Stamina",
+                "Fortify Pickpocket"
+            ],
+            "negative": [
+                "Ravage Magicka",
+                "Lingering Damage Health"
+            ]
+        }
+    },
+    "Orc's Blood": {
+        "effects": {
+            "positive": [
+                "Increase Strength"
+            ]
+        }
+    },
+    "Painted Troll Fat": {
+        "effects": {
+            "positive": [
+                "Fortify Magicka",
+                "Restore Health",
+                "Fortify Health",
+                "Restore Magicka"
+            ]
+        }
+    },
+    "Palm": {
+        "effects": {
+            "positive": [
+                "Levitate"
+            ]
+        }
+    },
+    "Pear": {
+        "effects": {
+            "positive": [
+                "Restore Fatigue",
+                "Fortify Speed"
+            ],
+            "negative": [
+                "Damage Speed",
+                "Damage Health"
+            ]
+        }
+    },
+    "Pearl": {
+        "effects": {
+            "positive": [
+                "Water Breathing",
+                "Resist Common Disease",
+                "Restore Stamina",
+                "Fortify Block",
+                "Restore Magicka",
+                "Resist Shock",
+                "Fortify One-handed",
+                "Fortify Restoration",
+                "Resist Frost"
+            ],
+            "negative": [
+                "Drain Agility"
+            ],
+            "mixed": [
+                "Dispel"
+            ]
+        }
+    },
+    "Pearlfish": {
+        "effects": {
+            "positive": [
+                "Restore Stamina",
+                "Resist Frost",
+                "Fortify Smithing",
+                "Fortify One-handed"
+            ]
+        }
+    },
+    "Peony Seeds": {
+        "effects": {
+            "positive": [
+                "Restore Strength",
+                "Restore Fatigue"
+            ],
+            "negative": [
+                "Damage Health",
+                "Damage Speed"
+            ]
+        }
+    },
+    "Persa Flower": {
+        "effects": {
+            "positive": [
+                "Increase lock picking and disarm"
+            ]
+        }
+    },
+    "Phyrric Acid": {
+        "description": "Phyrric Acid\u00a0sic is a substance that has the poisonous properties of greatly draining health.  It can be created by combining Daedra hearts, Orc's blood, dragon scales, and red poppy together."
+    },
+    "Pig's Sac": {
+        "effects": {
+            "positive": [
+                "Strength",
+                "Ironskin"
+            ]
+        }
+    },
+    "Pine branch": {
+        "effects": {
+            "positive": [
+                "Spell Resistance"
+            ]
+        }
+    },
+    "Pine Thrush Egg": {
+        "effects": {
+            "positive": [
+                "Restore Stamina",
+                "Fortify Lockpicking",
+                "Resist Shock"
+            ],
+            "negative": [
+                "Weakness to Poison"
+            ]
+        }
+    },
+    "Pinetear": {},
+    "Platinum": {
+        "effects": {
+            "positive": [
+                "Invisibility"
+            ]
+        }
+    },
+    "Poison": {
+        "effects": {
+            "negative": [
+                "Weakness to Poison",
+                "Damage Health",
+                "Damage Fatigue",
+                "Poison"
+            ]
+        }
+    },
+    "Poison Bloom": {
+        "effects": {
+            "negative": [
+                "Damage Health",
+                "Slow",
+                "Fear"
+            ],
+            "positive": [
+                "Fortify Carry Weight"
+            ]
+        }
+    },
+    "Poisoned Apple": {
+        "effects": {
+            "other": [
+                "Deadly Poison"
+            ]
+        }
+    },
+    "Potato": {
+        "effects": {
+            "positive": [
+                "Restore Fatigue",
+                "Shield",
+                "Frost Shield",
+                "Restore Health"
+            ],
+            "negative": [
+                "Burden"
+            ]
+        }
+    },
+    "Powdered Mammoth Tusk": {
+        "effects": {
+            "positive": [
+                "Restore Stamina",
+                "Fortify Sneak"
+            ],
+            "negative": [
+                "Weakness to Fire",
+                "Fear"
+            ]
+        }
+    },
+    "Powdered Mother of Pearl": {
+        "effects": {
+            "positive": [
+                "Lingering Health",
+                "Speed",
+                "Vitality",
+                "Protection"
+            ]
+        },
+        "description": "Powdered Mother of Pearl is an ingredient that can be found in Giant Clams on the beaches of Summerset Isle."
+    },
+    "Primrose Leaves": {
+        "effects": {
+            "positive": [
+                "Restore Willpower",
+                "Restore Personality",
+                "Fortify Luck"
+            ],
+            "negative": [
+                "Damage Strength"
+            ]
+        }
+    },
+    "Pumpkin": {
+        "effects": {
+            "positive": [
+                "Restore Fatigue",
+                "Detect Life"
+            ],
+            "negative": [
+                "Damage Agility",
+                "Damage Personality"
+            ]
+        }
+    },
+    "Pure water": {},
+    "Purgeblood Salts": {
+        "effects": {
+            "positive": [
+                "Restore Magicka",
+                "Fortify Magicka",
+                "Dispel"
+            ],
+            "negative": [
+                "Damage Health"
+            ]
+        }
+    },
+    "Purple Butterfly Wing": {
+        "effects": {
+            "positive": [
+                "Regenerate Health",
+                "Regenerate Magicka",
+                "Regenerate Stamina"
+            ],
+            "negative": [
+                "Paralysis"
+            ]
+        }
+    },
+    "Purple Mountain Flower": {
+        "effects": {
+            "positive": [
+                "Restore Stamina",
+                "Fortify Sneak",
+                "Resist Frost"
+            ],
+            "negative": [
+                "Lingering Damage Magicka"
+            ]
+        }
+    },
+    "Pygmy Sunfish": {
+        "effects": {
+            "positive": [
+                "Restore Stamina",
+                "Fortify Restoration"
+            ],
+            "negative": [
+                "Lingering Damage Magicka",
+                "Damage Magicka Regen"
+            ]
+        }
+    },
+    "Racer Plumes": {
+        "effects": {
+            "negative": [
+                "Drain Willpower"
+            ],
+            "positive": [
+                "Levitate"
+            ]
+        }
+    },
+    "Radish": {
+        "effects": {
+            "positive": [
+                "Restore Fatigue",
+                "Chameleon"
+            ],
+            "negative": [
+                "Damage Endurance",
+                "Burden"
+            ]
+        }
+    },
+    "Raider Chew": {
+        "effects": {
+            "positive": [
+                "Damage Agility",
+                "Increase Strength"
+            ],
+            "negative": [
+                "Damage Intelligence",
+                "Damage Agility"
+            ]
+        }
+    },
+    "Rain water": {},
+    "Rat Meat": {
+        "effects": {
+            "negative": [
+                "Drain Magicka",
+                "Paralyze",
+                "Damage Fatigue",
+                "Damage Magicka",
+                "Silence"
+            ],
+            "positive": [
+                "Cure Poison",
+                "Resist Poison",
+                "Detect Life"
+            ]
+        }
+    },
+    "Rat Poison": {
+        "effects": {
+            "other": [
+                "Rat Poison"
+            ]
+        }
+    },
+    "Rat's Eye": {
+        "effects": {
+            "positive": [
+                "Casts Mystic Might"
+            ]
+        }
+    },
+    "Raw Ebony": {
+        "effects": {
+            "negative": [
+                "Drain Agility"
+            ],
+            "positive": [
+                "Cure Poison",
+                "Frost Shield",
+                "Restore Speed"
+            ]
+        }
+    },
+    "Raw Glass": {
+        "effects": {
+            "negative": [
+                "Drain Intelligence",
+                "Drain Strength",
+                "Drain Speed"
+            ],
+            "positive": [
+                "Fire Shield"
+            ]
+        }
+    },
+    "Raw Stalhrim": {
+        "effects": {
+            "positive": [
+                "Resist Frost",
+                "Restore Health"
+            ],
+            "negative": [
+                "Frost Damage",
+                "Paralyze"
+            ]
+        }
+    },
+    "Red berries": {
+        "effects": {
+            "positive": [
+                "Resist Fire"
+            ]
+        }
+    },
+    "Red flowers": {
+        "effects": {
+            "positive": [
+                "Damage Stamina"
+            ]
+        }
+    },
+    "Red Kelp Gas Bladder": {
+        "effects": {
+            "positive": [
+                "Restore Speed",
+                "Water Breathing",
+                "Cure Disease",
+                "Fortify Magicka",
+                "Regenerate Stamina",
+                "Waterbreathing"
+            ]
+        }
+    },
+    "Red Lichen": {
+        "effects": {
+            "negative": [
+                "Drain Speed",
+                "Drain Magicka"
+            ],
+            "positive": [
+                "Light",
+                "Cure Common Disease"
+            ]
+        }
+    },
+    "Red Mountain Flower": {
+        "effects": {
+            "positive": [
+                "Restore Magicka",
+                "Fortify Magicka"
+            ],
+            "negative": [
+                "Ravage Magicka",
+                "Damage Health"
+            ]
+        }
+    },
+    "Red Mushroom": {
+        "effects": {
+            "positive": [
+                "Increases health"
+            ]
+        }
+    },
+    "Red poppy": {
+        "effects": {
+            "positive": [
+                "Drain Strength"
+            ]
+        }
+    },
+    "Red rose": {
+        "effects": {
+            "positive": [
+                "Detect Magic"
+            ]
+        }
+    },
+    "Redwort Flower": {
+        "effects": {
+            "positive": [
+                "Resist Frost",
+                "Cure Poison",
+                "Invisibility"
+            ],
+            "negative": [
+                "Damage Health"
+            ]
+        }
+    },
+    "Refined Frost Salts": {},
+    "Resin": {
+        "effects": {
+            "positive": [
+                "Restore Health",
+                "Restore Speed",
+                "Resist Common Disease"
+            ],
+            "negative": [
+                "Burden"
+            ]
+        }
+    },
+    "Rice": {
+        "effects": {
+            "positive": [
+                "Restore Fatigue",
+                "Shock Shield"
+            ],
+            "negative": [
+                "Silence",
+                "Damage Agility"
+            ]
+        }
+    },
+    "River Betty": {
+        "effects": {
+            "negative": [
+                "Damage Health",
+                "Slow"
+            ],
+            "positive": [
+                "Fortify Alteration",
+                "Fortify Carry Weight"
+            ]
+        }
+    },
+    "Rock Warbler Egg": {
+        "effects": {
+            "positive": [
+                "Restore Health",
+                "Fortify One-handed"
+            ],
+            "negative": [
+                "Damage Stamina",
+                "Weakness to Magic"
+            ]
+        }
+    },
+    "Roland's Tear": {},
+    "Roobrush": {
+        "effects": {
+            "negative": [
+                "Drain Willpower",
+                "Drain Health",
+                "Weakness to Magic",
+                "Lingering Damage Health"
+            ],
+            "positive": [
+                "Fortify Agility",
+                "Cure Poison",
+                "Fortify Sneak"
+            ]
+        }
+    },
+    "Root bulb": {
+        "effects": {
+            "positive": [
+                "Regenerate Health"
+            ]
+        }
+    },
+    "Root Pulp": {
+        "effects": {
+            "positive": [
+                "Cure Disease",
+                "Fortify Strength"
+            ],
+            "negative": [
+                "Damage Willpower",
+                "Damage Intelligence"
+            ]
+        }
+    },
+    "Root tendrils": {
+        "effects": {
+            "other": [
+                "Dimunition"
+            ]
+        }
+    },
+    "Rot Scale": {
+        "effects": {
+            "negative": [
+                "Burden",
+                "Damage Health",
+                "Silence",
+                "Paralyze",
+                "Slow",
+                "Lingering Damage Health",
+                "Fear",
+                "Paralysis"
+            ]
+        }
+    },
+    "Ruby": {
+        "effects": {
+            "positive": [
+                "Spell Absorption",
+                "Feather",
+                "Restore Intelligence"
+            ],
+            "negative": [
+                "Drain Health",
+                "Drain Agility"
+            ]
+        }
+    },
+    "Rumare Slaughterfish Scales": {},
+    "Sabre Cat Tooth": {
+        "effects": {
+            "positive": [
+                "Restore Stamina",
+                "Fortify Heavy Armor",
+                "Fortify Smithing"
+            ],
+            "negative": [
+                "Weakness to Poison"
+            ]
+        }
+    },
+    "Sacred Lotus Seeds": {
+        "effects": {
+            "positive": [
+                "Resist Frost",
+                "Feather",
+                "Dispel"
+            ],
+            "negative": [
+                "Damage Health"
+            ]
+        }
+    },
+    "Saint's hair": {
+        "effects": {
+            "positive": [
+                "Cure Disease"
+            ]
+        }
+    },
+    "Salamander": {},
+    "Salmon Roe": {
+        "effects": {
+            "positive": [
+                "Restore Stamina",
+                "Waterbreathing",
+                "Fortify Magicka",
+                "Regenerate Magicka"
+            ]
+        }
+    },
+    "Salt Pile": {
+        "effects": {
+            "negative": [
+                "Weakness to Magic",
+                "Slow"
+            ],
+            "positive": [
+                "Fortify Restoration",
+                "Regenerate Magicka"
+            ]
+        }
+    },
+    "Saltrice": {
+        "effects": {
+            "positive": [
+                "Restore Fatigue",
+                "Fortify Magicka",
+                "Restore Health",
+                "Restore Stamina"
+            ],
+            "negative": [
+                "Drain Strength",
+                "Damage Stamina Regen"
+            ]
+        }
+    },
+    "Sapphire": {
+        "effects": {
+            "positive": [
+                "Spell Reflection"
+            ]
+        }
+    },
+    "Scalon Fin": {
+        "effects": {
+            "positive": [
+                "Water Breathing",
+                "Waterbreathing"
+            ],
+            "negative": [
+                "Damage Health",
+                "Shock Damage",
+                "Burden",
+                "Lingering Damage Magicka",
+                "Damage Magicka Regen"
+            ]
+        },
+        "description": "Scalon fins are harvested from Scalons for their useful alchemical properties. Scalons are native to the Shivering Isles, but by E  samples of Scalon fin could be found circulating on Tamriel as a rare alchemy ingredient."
+    },
+    "Scaly Pholiota": {
+        "effects": {
+            "negative": [
+                "Weakness to Magic"
+            ],
+            "positive": [
+                "Fortify Illusion",
+                "Regenerate Stamina",
+                "Fortify Carry Weight"
+            ]
+        }
+    },
+    "Scamp Skin": {
+        "effects": {
+            "negative": [
+                "Drain Magicka",
+                "Damage Magicka",
+                "Damage Health"
+            ],
+            "positive": [
+                "Cure Paralyzation",
+                "Restore Personality",
+                "Restore Strength",
+                "Resist Shock",
+                "Reflect Damage"
+            ]
+        },
+        "description": "Scamp skin can be removed from Scamps while it is still bound on the mortal plane. It is a rare ingredient and alchemists have trouble keeping the substance in stock. It is used for straining in alchemy and cooking.UOL "
+    },
+    "Scathecraw": {
+        "effects": {
+            "negative": [
+                "Drain Strength",
+                "Drain Health",
+                "Ravage Health",
+                "Ravage Stamina",
+                "Ravage Magicka",
+                "Lingering Damage Health"
+            ],
+            "positive": [
+                "Cure Poison",
+                "Restore Willpower"
+            ]
+        }
+    },
+    "Scorpion Stinger": {
+        "effects": {
+            "negative": [
+                "Damage Health"
+            ]
+        }
+    },
+    "Scrap Metal": {
+        "effects": {
+            "negative": [
+                "Drain Health"
+            ],
+            "positive": [
+                "Lightning Shield",
+                "Resist Shock",
+                "Restore Intelligence"
+            ]
+        }
+    },
+    "Screaming Maw": {
+        "effects": {
+            "positive": [
+                "Restore Willpower",
+                "Detect Life",
+                "Chameleon",
+                "Restore Health",
+                "Regenerate Magicka",
+                "Fortify Alteration",
+                "Invisibility",
+                "Regenerate Health"
+            ]
+        }
+    },
+    "Scrib Cabbage": {
+        "effects": {
+            "negative": [
+                "Drain Intelligence",
+                "Damage Health"
+            ],
+            "positive": [
+                "Restore Agility",
+                "Fortify Agility"
+            ]
+        }
+    },
+    "Scrib Jelly": {
+        "effects": {
+            "positive": [
+                "Fortify Willpower",
+                "Cure Poison",
+                "Cure Blight Disease",
+                "Restore Willpower",
+                "Regenerate Magicka",
+                "Cure Disease",
+                "Regenerate Stamina",
+                "Speed",
+                "Lingering Health"
+            ],
+            "negative": [
+                "Ravage Magicka",
+                "Vulnerability"
+            ]
+        }
+    },
+    "Scrib Jerky": {
+        "effects": {
+            "positive": [
+                "Restore Fatigue",
+                "Fortify Fatigue",
+                "Swift Swim",
+                "Restore Stamina",
+                "Fortify Stamina",
+                "Waterbreathing"
+            ],
+            "negative": [
+                "Burden",
+                "Paralysis"
+            ]
+        }
+    },
+    "Scythe Crystals": {
+        "effects": {
+            "positive": [
+                "Attack nearby enemies"
+            ]
+        }
+    },
+    "Shadowbane": {},
+    "Shadowseed": {
+        "effects": {
+            "positive": [
+                "Increase Will",
+                "Increase Will"
+            ]
+        }
+    },
+    "Shalk Resin": {
+        "effects": {
+            "negative": [
+                "Drain Fatigue",
+                "Drain Personality"
+            ],
+            "positive": [
+                "Fortify Health",
+                "Fortify Speed"
+            ]
+        }
+    },
+    "Shepherd's Pie": {
+        "effects": {
+            "positive": [
+                "Cure Disease",
+                "Shield",
+                "Fortify Agility",
+                "Dispel",
+                "Increase Max Stamina",
+                "Increase Max Health"
+            ]
+        }
+    },
+    "Silver": {
+        "effects": {
+            "positive": [
+                "Cure Magic"
+            ]
+        }
+    },
+    "Silverside Perch": {
+        "effects": {
+            "positive": [
+                "Restore Stamina",
+                "Resist Frost"
+            ],
+            "negative": [
+                "Damage Stamina Regen",
+                "Ravage Health"
+            ]
+        }
+    },
+    "S'jirra's Famous Potato Bread": {
+        "effects": {
+            "positive": [
+                "Detect Life",
+                "Restore Health"
+            ],
+            "negative": [
+                "Damage Agility",
+                "Damage Strength"
+            ]
+        }
+    },
+    "Skeever Tail": {
+        "effects": {
+            "negative": [
+                "Damage Stamina Regen",
+                "Ravage Health",
+                "Damage Health"
+            ],
+            "positive": [
+                "Fortify Light Armor"
+            ]
+        }
+    },
+    "Slaughterfish Egg": {
+        "effects": {
+            "positive": [
+                "Resist Poison",
+                "Fortify Pickpocket",
+                "Fortify Stamina"
+            ],
+            "negative": [
+                "Lingering Damage Health"
+            ]
+        }
+    },
+    "Slaughterfish Scales": {
+        "effects": {
+            "negative": [
+                "Drain Personality",
+                "Damage Willpower",
+                "Damage Health",
+                "Lingering Damage Health"
+            ],
+            "positive": [
+                "Water Walking",
+                "Restore Endurance",
+                "Swift Swim",
+                "Water Breathing",
+                "Resist Frost",
+                "Fortify Heavy Armor",
+                "Fortify Block"
+            ]
+        }
+    },
+    "Sload Soap": {
+        "effects": {
+            "negative": [
+                "Drain Personality",
+                "Fear"
+            ],
+            "positive": [
+                "Fortify Agility",
+                "Fire Shield",
+                "Restore Agility",
+                "Resist Fire",
+                "Fortify Conjuration",
+                "Fortify Alteration"
+            ]
+        },
+        "description": "Sload Soap is a waxy substance made from the immature non-sentient forms of the Sload."
+    },
+    "Smack Water": {
+        "effects": {
+            "positive": [
+                "Increase Strength"
+            ]
+        }
+    },
+    "Small Antlers": {},
+    "Small Kwama Egg": {},
+    "Small Pearl": {},
+    "Small scorpion stinger": {},
+    "Small tooth": {},
+    "Smoked Baliwog Leg": {
+        "effects": {
+            "positive": [
+                "Restore Fatigue",
+                "Feather",
+                "Restore Health"
+            ],
+            "negative": [
+                "Damage Fatigue"
+            ]
+        }
+    },
+    "Snake venom": {
+        "effects": {
+            "positive": [
+                "Spell Resistance"
+            ]
+        }
+    },
+    "Snow Bear Pelt": {
+        "effects": {
+            "negative": [
+                "Drain Fatigue"
+            ],
+            "positive": [
+                "Fortify Speed",
+                "Resist Common Disease",
+                "Night Eye"
+            ]
+        }
+    },
+    "Snow Wolf Pelt": {
+        "effects": {
+            "negative": [
+                "Drain Fatigue"
+            ],
+            "positive": [
+                "Fortify Speed",
+                "Resist Common Disease",
+                "Night Eye"
+            ]
+        }
+    },
+    "Snowberries": {
+        "effects": {
+            "positive": [
+                "Resist Fire",
+                "Fortify Enchanting",
+                "Resist Frost",
+                "Resist Shock",
+                "Restore Health"
+            ]
+        }
+    },
+    "Snowray Powder": {
+        "effects": {
+            "positive": [
+                "Immunity to all special attacks"
+            ]
+        }
+    },
+    "Somnalius Frond": {
+        "effects": {
+            "positive": [
+                "Restore Speed",
+                "Fortify Health",
+                "Feather"
+            ],
+            "negative": [
+                "Damage Endurance"
+            ]
+        }
+    },
+    "Spadefish": {
+        "effects": {
+            "positive": [
+                "Restore Health",
+                "Fortify Lockpicking",
+                "Fortify Pickpocket",
+                "Cure Disease"
+            ]
+        }
+    },
+    "Spawn Ash": {
+        "effects": {
+            "negative": [
+                "Ravage Stamina",
+                "Ravage Magicka"
+            ],
+            "positive": [
+                "Resist Fire",
+                "Fortify Enchanting"
+            ]
+        }
+    },
+    "Spell Web Thread": {
+        "effects": {
+            "positive": [
+                "Increase Magic Resistance"
+            ]
+        }
+    },
+    "Spiddal Stick": {
+        "effects": {
+            "negative": [
+                "Damage Health",
+                "Damage Magicka",
+                "Fire Damage",
+                "Weakness to Fire"
+            ],
+            "positive": [
+                "Restore Fatigue",
+                "Restore Stamina"
+            ]
+        }
+    },
+    "Spider Egg": {
+        "effects": {
+            "negative": [
+                "Damage Stamina",
+                "Damage Magicka Regen",
+                "Hindrance",
+                "Defile"
+            ],
+            "positive": [
+                "Fortify Lockpicking",
+                "Fortify Marksman",
+                "Invisible",
+                "Lingering Health"
+            ]
+        }
+    },
+    "Spider Heart": {
+        "effects": {
+            "positive": [
+                "Increase Lethal Strike"
+            ]
+        }
+    },
+    "Spider's venom": {
+        "effects": {
+            "negative": [
+                "Paralysis"
+            ]
+        }
+    },
+    "Spore Pod": {
+        "effects": {
+            "negative": [
+                "Drain Strength",
+                "Drain Fatigue",
+                "Paralyze"
+            ],
+            "positive": [
+                "Detect Key"
+            ]
+        }
+    },
+    "Spriggan Sap": {
+        "effects": {
+            "negative": [
+                "Damage Magicka Regen"
+            ],
+            "positive": [
+                "Fortify Enchanting",
+                "Fortify Smithing",
+                "Fortify Alteration"
+            ]
+        }
+    },
+    "Spriggan's Ear": {},
+    "St. Jahn's Wort Nectar": {
+        "effects": {
+            "positive": [
+                "Resist Shock",
+                "Cure Poison",
+                "Chameleon"
+            ],
+            "negative": [
+                "Damage Health"
+            ]
+        }
+    },
+    "Steel-Blue Entoloma Cap": {
+        "effects": {
+            "positive": [
+                "Restore Magicka",
+                "Resist Frost",
+                "Fortify Destruction",
+                "Fortify Carry Weight"
+            ],
+            "negative": [
+                "Fire Damage",
+                "Burden"
+            ]
+        }
+    },
+    "Stew": {
+        "effects": {
+            "positive": [
+                "Restore Fatigue"
+            ]
+        }
+    },
+    "Stinkhorn": {
+        "effects": {
+            "negative": [
+                "Damage Health",
+                "Fracture",
+                "Ravage Health",
+                "Ravage Stamina"
+            ],
+            "positive": [
+                "Restore Magicka",
+                "Water Walking",
+                "Invisibility",
+                "Increase Weapon Power"
+            ]
+        }
+    },
+    "Stoneflower Petals": {
+        "effects": {
+            "positive": [
+                "Restore Strength",
+                "Fortify Magicka",
+                "Fortify Personality",
+                "Fortify One-handed",
+                "Fortify Enchanting"
+            ],
+            "negative": [
+                "Drain Luck",
+                "Weakness to Shock"
+            ]
+        }
+    },
+    "Strawberry": {
+        "effects": {
+            "positive": [
+                "Restore Fatigue",
+                "Cure Poison",
+                "Reflect Damage"
+            ],
+            "negative": [
+                "Damage Health"
+            ]
+        }
+    },
+    "Sulphur": {
+        "effects": {
+            "positive": [
+                "Resist Fire"
+            ]
+        }
+    },
+    "Summer Bolete Cap": {
+        "effects": {
+            "positive": [
+                "Restore Agility",
+                "Shield"
+            ],
+            "negative": [
+                "Damage Personality",
+                "Damage Endurance"
+            ]
+        }
+    },
+    "Sunlight Water": {
+        "effects": {
+            "positive": [
+                "Increase Magic Resistance",
+                "Increase Armory"
+            ]
+        }
+    },
+    "Swamp Fungal Pod": {
+        "effects": {
+            "positive": [
+                "Resist Shock",
+                "Restore Health"
+            ],
+            "negative": [
+                "Lingering Damage Magicka",
+                "Paralysis"
+            ]
+        }
+    },
+    "Swamp Tentacle": {
+        "effects": {
+            "positive": [
+                "Restore Personality",
+                "Water Breathing",
+                "Water Walking",
+                "Fortify Health"
+            ]
+        }
+    },
+    "Sweetcake": {
+        "effects": {
+            "positive": [
+                "Restore Fatigue",
+                "Feather",
+                "Restore Health"
+            ],
+            "negative": [
+                "Burden"
+            ]
+        }
+    },
+    "Sweetpulp": {
+        "effects": {
+            "negative": [
+                "Paralyze"
+            ],
+            "positive": [
+                "Levitate",
+                "Resist Paralysis",
+                "Restore Health"
+            ]
+        }
+    },
+    "Sweetroll": {
+        "effects": {
+            "positive": [
+                "Restore Fatigue",
+                "Resist Disease",
+                "Fortify Health",
+                "Restore Health",
+                "Increase Max Stamina",
+                "Increase Max Magicka"
+            ],
+            "negative": [
+                "Damage Personality"
+            ]
+        }
+    },
+    "Taproot": {
+        "effects": {
+            "positive": [
+                "Restore Luck",
+                "Resist Poison",
+                "Shock Shield",
+                "Fortify Illusion",
+                "Regenerate Magicka",
+                "Restore Magicka"
+            ],
+            "negative": [
+                "Damage Endurance",
+                "Weakness to Magic"
+            ]
+        }
+    },
+    "Thistle Branch": {
+        "effects": {
+            "positive": [
+                "Resist Frost",
+                "Resist Poison",
+                "Fortify Heavy Armor",
+                "Restore Health"
+            ],
+            "negative": [
+                "Ravage Stamina"
+            ]
+        }
+    },
+    "Thorn Hook": {
+        "effects": {
+            "negative": [
+                "Damage Health",
+                "Damage Luck",
+                "Lingering Damage Health",
+                "Paralysis"
+            ],
+            "positive": [
+                "Restore Magicka",
+                "Fortify Health",
+                "Regenerate Magicka",
+                "Regenerate Health"
+            ]
+        }
+    },
+    "Thunder Herb": {
+        "effects": {
+            "positive": [
+                "Increase Damage"
+            ]
+        }
+    },
+    "Thyrwort": {
+        "description": "Thyrwort is a substance that has the poisonous properties of draining willpower and personality. It can be created by combining brass, basilisk's eye, small teeth, and mercury together."
+    },
+    "Tiger Lily Nectar": {
+        "effects": {
+            "positive": [
+                "Restore Endurance",
+                "Water Walking"
+            ],
+            "negative": [
+                "Damage Strength",
+                "Damage Willpower"
+            ]
+        }
+    },
+    "Timsa-Come-By flowers": {
+        "effects": {
+            "mixed": [
+                "Dispel"
+            ],
+            "positive": [
+                "Resist Paralysis",
+                "Restore Endurance"
+            ],
+            "negative": [
+                "Drain Magicka"
+            ]
+        }
+    },
+    "Tin": {
+        "effects": {
+            "positive": [
+                "Free Action"
+            ]
+        }
+    },
+    "Tinder Polypore Cap": {
+        "effects": {
+            "positive": [
+                "Restore Willpower",
+                "Resist Disease",
+                "Invisibility"
+            ],
+            "negative": [
+                "Damage Magicka"
+            ]
+        }
+    },
+    "Toad Muffin": {
+        "effects": {
+            "positive": [
+                "Restore Magicka",
+                "Restore Fatigue"
+            ]
+        }
+    },
+    "Tobacco": {
+        "effects": {
+            "positive": [
+                "Restore Fatigue",
+                "Resist Paralysis",
+                "Dispel"
+            ],
+            "negative": [
+                "Damage Magicka"
+            ]
+        }
+    },
+    "Tomato": {
+        "effects": {
+            "positive": [
+                "Restore Fatigue",
+                "Detect Life",
+                "Shield",
+                "Restore Health"
+            ],
+            "negative": [
+                "Burden"
+            ]
+        }
+    },
+    "Tooth": {
+        "effects": {
+            "positive": [
+                "Spell Resistance"
+            ]
+        }
+    },
+    "Topaz Dust": {
+        "effects": {
+            "positive": [
+                "Damage Luck",
+                "Increase Personality"
+            ],
+            "negative": [
+                "Damage Agility",
+                "Damage Luck"
+            ]
+        }
+    },
+    "Torchbug Thorax": {
+        "effects": {
+            "positive": [
+                "Restore Stamina",
+                "Fortify Stamina",
+                "Detection",
+                "Vitality"
+            ],
+            "negative": [
+                "Lingering Damage Magicka",
+                "Weakness to Magic",
+                "Fracture",
+                "Enervation"
+            ]
+        }
+    },
+    "Trama Root": {
+        "effects": {
+            "positive": [
+                "Restore Willpower",
+                "Levitate",
+                "Fortify Carry Weight"
+            ],
+            "negative": [
+                "Drain Magicka",
+                "Drain Speed",
+                "Weakness to Shock",
+                "Damage Magicka",
+                "Slow"
+            ]
+        }
+    },
+    "Treated Bittergreen Petals": {},
+    "Tremble Weed": {
+        "effects": {
+            "positive": [
+                "Drain Fatigue",
+                "Increase Speed"
+            ],
+            "negative": [
+                "Drain Fatigue"
+            ]
+        }
+    },
+    "Troll Blood": {
+        "effects": {
+            "positive": [
+                "Regenerate Health",
+                "Fortify Armor",
+                "Fortify Attack"
+            ]
+        }
+    },
+    "Troll Fat": {
+        "effects": {
+            "negative": [
+                "Damage Agility",
+                "Damage Willpower",
+                "Damage Health",
+                "Frenzy"
+            ],
+            "positive": [
+                "Fortify Personality",
+                "Resist Poison",
+                "Fortify Two-handed"
+            ]
+        }
+    },
+    "Tundra Cotton": {
+        "effects": {
+            "positive": [
+                "Resist Magic",
+                "Fortify Magicka",
+                "Fortify Block",
+                "Fortify Barter"
+            ]
+        }
+    },
+    "Turquoise": {
+        "effects": {
+            "positive": [
+                "Water Walking"
+            ]
+        }
+    },
+    "Twigs": {
+        "effects": {
+            "positive": [
+                "Slowfall"
+            ]
+        }
+    },
+    "Umbric Fur": {
+        "effects": {
+            "positive": [
+                "Increase Armor",
+                "Increase Attack",
+                "Increase Defense"
+            ]
+        }
+    },
+    "Unicorn Horn": {
+        "effects": {
+            "positive": [
+                "Detect Enemy",
+                "Fortify Health"
+            ]
+        }
+    },
+    "Unrefined Greenmote": {
+        "effects": {
+            "negative": [
+                "Drain Fatigue",
+                "Drain Health",
+                "Drain Magicka",
+                "Drain Intelligence"
+            ]
+        }
+    },
+    "Vampire Dust": {
+        "effects": {
+            "positive": [
+                "Fortify Health",
+                "Fortify Strength",
+                "Spell Absorption",
+                "Resist Disease",
+                "Invisibility",
+                "Restore Magicka",
+                "Regenerate Health",
+                "Cure Disease"
+            ],
+            "negative": [
+                "Vampirism",
+                "Silence",
+                "Frost Damage"
+            ]
+        },
+        "description": "Vampire Dust is the ash collected from deceased vampires for its alchemical properties. It is dangerous to collect, and is thus highly valued and expensive. Its alchemical effects vary as much as the environments from which the dust is collected. For example, Vampire Dust collected from vampires in Vvardenfell is the only variety known to be able transmit the disease, but because it's the only ingredient capable of it no potion can be made which offers this effect. Dust collected from vampires in Cyrodiil and Skyrim both in turn carry a resistance to diseases and invisibility, both effects carried from their vampiric source."
+    },
+    "Venison": {
+        "effects": {
+            "positive": [
+                "Restore Health",
+                "Feather",
+                "Chameleon"
+            ],
+            "negative": [
+                "Damage Health"
+            ]
+        }
+    },
+    "Vicar Herb": {
+        "effects": {
+            "positive": [
+                "Restore Magicka",
+                "Restore Health",
+                "Restore Magicka"
+            ]
+        }
+    },
+    "Violet Coprinus": {
+        "effects": {
+            "positive": [
+                "Water Walking",
+                "Increase Spell Power"
+            ],
+            "negative": [
+                "Drain Fatigue",
+                "Poison",
+                "Breach",
+                "Ravage Health",
+                "Ravage Magicka"
+            ]
+        },
+        "description": "Violet Coprinus is a slender-stemmed, bluish-purple, or sometimes light-green-capped mushroom found all across Tamriel."
+    },
+    "Viper's Bugloss Leaves": {
+        "effects": {
+            "positive": [
+                "Resist Paralysis",
+                "Night-Eye",
+                "Cure Paralysis"
+            ],
+            "negative": [
+                "Burden"
+            ]
+        },
+        "description": "Viper's Bugloss Leaves comes from the plant Viper's Bugloss, which grows abundantly in the Great Forest region of Cyrodiil."
+    },
+    "Void Essence": {
+        "effects": {
+            "positive": [
+                "Restore Health",
+                "Fortify Health",
+                "Fortify Strength",
+                "Fortify Endurance",
+                "Fortify Stamina",
+                "Regenerate Health"
+            ]
+        },
+        "description": "Void Essence is a type of red gemstone harvested from Flesh Atronach corpses. It should not be confused with the inky substance known as Void Essence, which can be harvested from Shades and other dark spirits associated with the Void but cannot be used for alchemy."
+    },
+    "Void Salts": {
+        "effects": {
+            "positive": [
+                "Restore Magicka",
+                "Spell Absorption",
+                "Fortify Magicka",
+                "Dispel",
+                "Resist Magic",
+                "Resist Shock"
+            ],
+            "negative": [
+                "Paralyze",
+                "Drain Endurance",
+                "Damage Health",
+                "Weakness to Shock"
+            ]
+        },
+        "description": "Void Salts are rare crystalline precipitates collected from the remains of slain Storm Atronachs and Winged Twilights."
+    },
+    "Warrior Bread": {
+        "effects": {
+            "positive": [
+                "Restore Health",
+                "Restore Fatigue"
+            ]
+        }
+    },
+    "Watcher's Eye": {
+        "effects": {
+            "positive": [
+                "Restore Intelligence",
+                "Fortify Magicka",
+                "Light",
+                "Reflect Spell",
+                "Night Eye",
+                "Fortify Illusion",
+                "Spell Absorption"
+            ]
+        }
+    },
+    "Water Hyacinth": {
+        "effects": {
+            "negative": [
+                "Damage Luck",
+                "Damage Fatigue",
+                "Entrapment"
+            ],
+            "positive": [
+                "Restore Magicka",
+                "Fortify Magicka",
+                "Restore Health",
+                "Spell Critical",
+                "Weapon Critical"
+            ]
+        }
+    },
+    "Water Root Pod Pit": {
+        "effects": {
+            "positive": [
+                "Restore Health",
+                "Resist Fire",
+                "Fire Shield",
+                "Water Breathing"
+            ]
+        }
+    },
+    "Watermelon": {
+        "effects": {
+            "positive": [
+                "Restore Fatigue",
+                "Light"
+            ],
+            "negative": [
+                "Burden",
+                "Damage Health"
+            ]
+        }
+    },
+    "Wereboar's tusk": {
+        "effects": {
+            "positive": [
+                "Increase Strength"
+            ]
+        }
+    },
+    "Werewolf's blood": {
+        "effects": {
+            "positive": [
+                "Cure Magic"
+            ]
+        }
+    },
+    "Wheat": {
+        "effects": {
+            "positive": [
+                "Restore Fatigue",
+                "Fortify Health",
+                "Restore Health"
+            ],
+            "negative": [
+                "Damage Magicka",
+                "Damage Personality",
+                "Damage Stamina Regen",
+                "Lingering Damage Magicka"
+            ]
+        }
+    },
+    "White Cap": {
+        "effects": {
+            "negative": [
+                "Weakness to Frost",
+                "Ravage Magicka",
+                "Cowardice"
+            ],
+            "positive": [
+                "Fortify Heavy Armor",
+                "Restore Magicka",
+                "Increase Spell Resist",
+                "Detection"
+            ]
+        }
+    },
+    "White poppy": {
+        "effects": {
+            "negative": [
+                "Drain Intelligence"
+            ]
+        }
+    },
+    "White rose": {
+        "effects": {
+            "positive": [
+                "Increase Intelligence"
+            ]
+        }
+    },
+    "White Seed Pod": {
+        "effects": {
+            "positive": [
+                "Restore Strength",
+                "Water Breathing",
+                "Light"
+            ],
+            "negative": [
+                "Silence"
+            ]
+        }
+    },
+    "Wickeder Skin": {
+        "effects": {
+            "positive": [
+                "Increase Defense",
+                "Increase Armor"
+            ]
+        }
+    },
+    "Wickwheat": {
+        "effects": {
+            "positive": [
+                "Restore Health",
+                "Fortify Willpower"
+            ],
+            "negative": [
+                "Paralyze",
+                "Damage Intelligence"
+            ]
+        },
+        "description": "Wickwheat is a wild Ashland grain with several magical properties that grows in the Grazelands region of Vvardenfell."
+    },
+    "Wild Grass Pod": {
+        "effects": {
+            "positive": [
+                "Resist Poison",
+                "Fortify Alteration",
+                "Restore Magicka"
+            ],
+            "negative": [
+                "Ravage Magicka"
+            ]
+        }
+    },
+    "Willow Anther": {
+        "effects": {
+            "negative": [
+                "Drain Personality"
+            ],
+            "positive": [
+                "Frost Shield",
+                "Cure Common Disease",
+                "Cure Paralyzation"
+            ]
+        },
+        "description": "Willow anther is the powdery residue from the pollen-bearing parts of the willow flower that grows in the Ascadian Isles. and Azura's Coast regions of Vvardenfell."
+    },
+    "Wisp Core": {
+        "effects": {
+            "positive": [
+                "Restore Intelligence",
+                "Light",
+                "Chameleon"
+            ],
+            "negative": [
+                "Burden"
+            ]
+        }
+    },
+    "Wisp Stalk Caps": {
+        "effects": {
+            "negative": [
+                "Damage Health",
+                "Damage Willpower",
+                "Damage Intelligence",
+                "Weakness to Poison",
+                "Frenzy"
+            ],
+            "positive": [
+                "Fortify Speed",
+                "Regenerate Stamina"
+            ]
+        }
+    },
+    "Wisp Wrappings": {
+        "effects": {
+            "positive": [
+                "Restore Stamina",
+                "Fortify Destruction",
+                "Fortify Carry Weight",
+                "Resist Magic"
+            ]
+        }
+    },
+    "Withering Moon": {
+        "effects": {
+            "positive": [
+                "Restore Magicka",
+                "Shield",
+                "Cure Disease",
+                "Reflect Spell",
+                "Spell Absorption",
+                "Fortify Light Armor"
+            ]
+        }
+    },
+    "Wolf Pelt": {
+        "effects": {
+            "negative": [
+                "Drain Fatigue"
+            ],
+            "positive": [
+                "Fortify Speed",
+                "Resist Common Disease",
+                "Night Eye"
+            ]
+        }
+    },
+    "Wolfsbane Petals": {
+        "effects": {
+            "positive": [
+                "Restore Intelligence",
+                "Invisibility"
+            ],
+            "negative": [
+                "Drain Endurance",
+                "Drain Magicka"
+            ]
+        }
+    },
+    "Worm's Head Cap": {
+        "effects": {
+            "positive": [
+                "Restore Luck",
+                "Night-Eye",
+                "Fortify Fatigue",
+                "Fortify Lockpicking",
+                "Night Eye",
+                "Fortify Carry Weight"
+            ],
+            "negative": [
+                "Paralyze",
+                "Slow"
+            ]
+        }
+    },
+    "Wormwood": {
+        "effects": {
+            "positive": [
+                "Fortify Fatigue",
+                "Invisibility",
+                "Weapon Critical",
+                "Detection",
+                "Unstoppable"
+            ],
+            "negative": [
+                "Damage Health",
+                "Damage Magicka",
+                "Hindrance"
+            ]
+        }
+    },
+    "Wraith essence": {
+        "effects": {
+            "negative": [
+                "Drain Willpower"
+            ]
+        }
+    },
+    "Yellow berries": {
+        "effects": {
+            "positive": [
+                "Increase Speed"
+            ]
+        }
+    },
+    "Yellow flowers": {
+        "effects": {
+            "positive": [
+                "Chameleon"
+            ]
+        }
+    },
+    "Yellow Mountain Flower": {
+        "effects": {
+            "positive": [
+                "Resist Poison",
+                "Fortify Restoration",
+                "Fortify Health"
+            ],
+            "negative": [
+                "Damage Stamina Regen"
+            ]
+        }
+    },
+    "Yellow rose": {
+        "effects": {
+            "other": [
+                "Lycanthropy"
+            ]
+        }
+    },
+    "Zombie Dust": {
+        "effects": {
+            "positive": [
+                "Increase Armor"
+            ]
+        }
+    }
+}
