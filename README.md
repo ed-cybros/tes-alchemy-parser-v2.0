@@ -17,7 +17,7 @@ For example:
 
 To support efficient querying and future data use, a decision was made to store the transformed data in a normalized SQLite database. The resulting dataset provides a structured foundation for effect lookup, analysis, and future projects.
 
-This project is built on top of [The Elder Scrolls Alchemy Parser 1.0](https://github.com/ed-cybros/tes-alchemy-parser-v1.0) (first working pipeline) and was further developed as part of a personal learning project.
+This project is built on top of [TES Alchemy Parser 1.0](https://github.com/ed-cybros/tes-alchemy-parser-v1.0) (first working pipeline) and was further developed as part of a personal learning project.
 
 ## Tech Stack
 
